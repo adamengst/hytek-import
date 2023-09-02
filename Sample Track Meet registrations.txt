@@ -1,0 +1,11 @@
+﻿Name	First name	Last name	Age	Gender	Email	Registration time	60m	200m	1-mile	3000m	LongJump	HighJump	Notes	Emergency contact name	Emergency phone #
+
+Sally Schmoe	Sally	Schmoe	16	Female	ace@tidbits.com	Aug 30, 2023 at 1:26 PM				9:55				Adam Engst	607-275-9557
+
+Joe Schmoe	Joe	Schmoe	12	Male	ace@tidbits.com	Aug 30, 2023 at 1:25 PM	0:13	0:59				3-06		Adam Engst	607-275-9557
+
+Tristan Engst	Tristan	Engst	25	Male	tristan@tidbits.com	Aug 30, 2023 at 1:24 PM	0:07	0:31	6:08	11:12	12-03	4-02		Adam Engst	6072759557
+
+Tonya Engst	Tonya	Engst	56	Female	tonya@tidbits.com	Aug 30, 2023 at 1:22 PM	0:10	0:42	7:56	15:23				Adam Engst	6072759557
+
+Adam Engst	Adam	Engst	56	Male	ace@tidbits.com	Aug 30, 2023 at 1:21 PM	0:09	0:34	5:08	10:32	7-03	4-01	Please don't put me in the fast heat of the mile!	Tonya Engst	6072759557

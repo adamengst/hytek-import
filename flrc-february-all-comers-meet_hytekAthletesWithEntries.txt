@@ -1,0 +1,523 @@
+I;Lewis;Xzavier;;M;;UNA;Unattached;;14;;;Syracuse;NY;;USA;USA;;;;;8116631;1;
+I;Tchiprout;Alex;;M;05/04/2003;IHCR;Ithaca College Running Club;;10;;;Ithaca;NY;;USA;USA;;;;;12831496;2;
+I;Polanish;Emily;;F;;UNA;Unattached;;12;;;Ithaca;NY;;USA;USA;;;;;12831481;3;
+I;Polanish;Emily;;F;05/29/2002;IHCR;Ithaca College Running Club;;11;;;Ithaca;NY;;USA;USA;;;;;12831494;4;
+I;Weeks;Theodore;;M;;GPTC;Groton Project TC;; 1;;;Groton;NY;;USA;USA;;;;;12834818;5;
+I;Marzan;Matthew;;M;;UNA;Unattached;; 9;;;Trumansburg;NY;;USA;USA;;;;;12615802;6;
+I;Milano;Patrick;;M;12/18/1989;UNA;Unattached;;12;;;Ithaca;NY;;USA;USA;;;;;12713780;7;
+I;Silbert;Ursula;;F;;UNA;Unattached;; 7;;;Ithaca;NY;;USA;USA;;;;;12825708;8;
+I;Golden;Camryn;;F;;UNA;Unattached;; -2;;;Ithaca;NY;;USA;USA;;;;;12823441;9;
+I;Kresock;Adrian;;M;02/27/2020;UNA;Unattached;; -3;;;Ithaca;NY;;USA;USA;;;;;12154777;10;
+I;Kresock;Joel;;M;02/27/2020;UNA;Unattached;; -3;;;Ithaca;NY;;USA;USA;;;;;12154778;11;
+I;Salisbury;Bradock;;M;;UNA;Unattached;;11;;;Horseheads;NY;;USA;USA;;;;;9169915;12;
+I;Janeski;Ryan;;M;07/26/2005;UNA;Unattached;;12;;;Horseheads;NY;;USA;USA;;;;;11317858;13;
+I;Bosket;Noah;;M;;UNA;Unattached;;18;;;Horseheads;NY;;USA;USA;;;;;4855174;14;
+I;Eastman;James;;M;;UNA;Unattached;;20;;;Horseheads;NY;;USA;USA;;;;;12819389;15;
+I;Ruffer;Noah;;M;;UNA;Unattached;;12;;;Horseheads;NY;;USA;USA;;;;;8052278;16;
+I;Levantovich;Liam;;M;;UNA;Unattached;;12;;;Horseheads;NY;;USA;USA;;;;;10487734;17;
+I;McEachen;John;;M;;UNA;Unattached;;47;;;;NY;;USA;USA;;;;;12834772;18;
+I;Mozo;Robert;;M;;UNA;Unattached;;54;;;Clay;NY;;USA;USA;;;;;12802216;19;
+I;Salisbury;Mike;;M;;UNA;Unattached;;39;;;Elmira ;NY;;USA;USA;;;;;12822961;20;
+I;DeSantis;Conor;;M;01/20/2010;UNA;Unattached;; 7;;;Trumansburg;NY;;USA;USA;;;;;12710530;21;
+I;Smith;Jacob;;M;;UNA;Unattached;;19;;;Virgil;NY;;USA;USA;;;;;12815718;22;
+I;Salisbury;Aiden;;M;;UNA;Unattached;; 2;;;Erin;NY;;USA;USA;;;;;12822955;23;
+I;DeSantis;Rowan;;F;12/12/2013;UNA;Unattached;; 3;;;Trumansburg;NY;;USA;USA;;;;;12710531;24;
+I;Nimaga;Karim;;M;;MSC;Morrisville State College;;--;;;Morrisville;NY;;USA;USA;;;;;12826049;25;
+I;Russo;Logan;;M;10/27/2010;STSA;Southern Tier SOAR;; 7;;;Corning;NY;;USA;USA;;;;;12719008;26;
+I;Mosher;Henry;;M;03/12/2013;STSA;Southern Tier SOAR;; 4;;;Corning;NY;;USA;USA;;;;;12823254;27;
+I;White;Gavin;;M;;ITHY;Ithaca Youth Bureau;; 7;;;Ithaca;NY;;USA;USA;;;;;12717432;28;
+I;Awa;Asa;;M;07/30/2013;GIAC;GIAC Navigators;;12;;;Ithaca;NY;;USA;USA;;;;;12718664;29;
+I;Johnston;Matti;;F;;CPPE;Corning;; 8;;;Painted Post;NY;;USA;USA;;;;;12827416;30;
+I;Harrington;Connor;;M;03/22/2011;STSA;Southern Tier SOAR;; 6;;;Corning;NY;;USA;USA;;;;;12718990;31;
+I;Younkin;Lauren;;F;10/08/2010;STSA;Southern Tier SOAR;; 7;;;Corning;NY;;USA;USA;;;;;12719006;32;
+I;Feschotte;Maya;;F;;ITHY;Ithaca Youth Bureau;; 6;;;Ithaca;NY;;USA;USA;;;;;12833429;33;
+I;Baptist;Jerome;;M;10/12/2012;GIAC;GIAC Navigators;;12;;;Ithaca;NY;;USA;USA;;;;;12718666;34;
+I;Ruza;Sylas;;M;07/30/2011;STSA;Southern Tier SOAR;; 5;;;Corning;NY;;USA;USA;;;;;12719010;35;
+I;Hazlett;Ben;;M;09/03/2010;STSA;Southern Tier SOAR;; 7;;;Corning;NY;;USA;USA;;;;;12823235;36;
+I;Baptist;Jerod;;M;10/12/2012;GIAC;GIAC Navigators;;12;;;Ithaca;NY;;USA;USA;;;;;12718665;37;
+I;Sierra;Ava;;F;07/06/2013;GIAC;GIAC Navigators;;12;;;Ithaca;NY;;USA;USA;;;;;12718998;38;
+I;Weeks;Madelyn;;F;;GPTC;Groton Project TC;; 6;;;Groton;NY;;USA;USA;;;;;12700057;39;
+I;Swarthout;Karina;;F;04/17/2010;STSA;Southern Tier SOAR;; 7;;;Corning;NY;;USA;USA;;;;;12719005;40;
+I;Spears;Raheem;;M;08/12/2012;GIAC;GIAC Navigators;;12;;;Ithaca;NY;;USA;USA;;;;;12718668;41;
+I;Stewart;Hayden;;F;01/10/2012;GIAC;GIAC Navigators;;12;;;Ithaca;NY;;USA;USA;;;;;12718997;42;
+I;Lombardi;Nattalie;;F;;GPTC;Groton Project TC;; 6;;;Groton;NY;;USA;USA;;;;;12719651;43;
+I;Worley;Colton;;M;01/04/2013;STSA;Southern Tier SOAR;; 4;;;Corning;NY;;USA;USA;;;;;12823244;44;
+I;Boscia;Dan;;M;;ITHY;Ithaca Youth Bureau;; 5;;;Ithaca;NY;;USA;USA;;;;;12833428;45;
+I;Lucena;Janaiyah;;F;07/17/2013;GIAC;GIAC Navigators;;12;;;Ithaca;NY;;USA;USA;;;;;12718989;46;
+I;Stump;Gary;;M;01/20/2011;STSA;Southern Tier SOAR;; 6;;;Corning;NY;;USA;USA;;;;;12719001;47;
+I;Lucena;Joharra;;F;07/17/2013;GIAC;GIAC Navigators;;12;;;Ithaca;NY;;USA;USA;;;;;12718991;48;
+I;Morrone;Amari;;F;02/22/2015;GIAC;GIAC Navigators;;12;;;Ithaca;NY;;USA;USA;;;;;12718995;49;
+I;Mugamb-Loanide;Yekaterina;;F;05/26/2015;GIAC;GIAC Navigators;;12;;;Ithaca;NY;;USA;USA;;;;;12719003;50;
+I;Smith;Reis;;F;05/08/2013;STSA;Southern Tier SOAR;; 4;;;Corning;NY;;USA;USA;;;;;12719009;51;
+I;Baptist;Joaquin;;M;09/09/2015;GIAC;GIAC Navigators;;12;;;Ithaca;NY;;USA;USA;;;;;12718843;52;
+I;LeShore;Carter;;M;11/29/2012;GIAC;GIAC Navigators;;12;;;Ithaca;NY;;USA;USA;;;;;12718662;53;
+I;Nichols;Elias;;M;01/13/2015;STSA;Southern Tier SOAR;; 2;;;Corning;NY;;USA;USA;;;;;12823249;54;
+I;Mack;Augustine;;M;05/08/2014;GIAC;GIAC Navigators;;12;;;Ithaca;NY;;USA;USA;;;;;12718926;55;
+I;Lucena;Johnny;;M;03/04/2014;GIAC;GIAC Navigators;;12;;;Ithaca;NY;;USA;USA;;;;;12718667;56;
+I;Ashton;Ysenia;;F;05/18/2014;GIAC;GIAC Navigators;;12;;;Ithaca;NY;;USA;USA;;;;;12718999;57;
+I;Russo;Elliana;;F;06/06/2015;STSA;Southern Tier SOAR;; 2;;;Corning;NY;;USA;USA;;;;;12718994;58;
+I;Miller;Violet;;F;12/27/2012;STSA;Southern Tier SOAR;; 5;;;Corning;NY;;USA;USA;;;;;12719012;59;
+I;Cummings;Zion;;M;01/20/2015;GIAC;GIAC Navigators;;12;;;Ithaca;NY;;USA;USA;;;;;12718842;60;
+I;Rose;Taytum;;F;02/20/2014;STSA;Southern Tier SOAR;; 3;;;Corning;NY;;USA;USA;;;;;12719011;61;
+I;Baptist;Jocelyn;;F;09/09/2015;GIAC;GIAC Navigators;;12;;;Ithaca;NY;;USA;USA;;;;;12719000;62;
+I;Haynes;Somaya;;F;08/16/2012;GIAC;GIAC Navigators;;12;;;Ithaca;NY;;USA;USA;;;;;12718992;63;
+I;Justice;Nicholas;;M;;GPTC;Groton Project TC;; 1;;;Groton;NY;;USA;USA;;;;;12719653;64;
+I;Campbell;Xavier;;M;08/01/2013;GIAC;GIAC Navigators;;12;;;Ithaca;NY;;USA;USA;;;;;12718822;65;
+I;Abdur-Razzaaq;Jahiem;;M;12/14/2011;GIAC;GIAC Navigators;;12;;;Ithaca;NY;;USA;USA;;;;;12718844;66;
+I;Abdur-Razzaaq;Jamarea;;F;04/14/2015;GIAC;GIAC Navigators;;12;;;Ithaca;NY;;USA;USA;;;;;12719002;67;
+I;McBean;Amor;;M;12/30/2012;GIAC;GIAC Navigators;;12;;;Ithaca;NY;;USA;USA;;;;;12718841;68;
+I;Moll;Oliver;;M;;GPTC;Groton Project TC;; 3;;;Groton;NY;;USA;USA;;;;;12834820;69;
+I;Campbell;Archibald;;M;08/29/2016;GIAC;GIAC Navigators;;12;;;Ithaca;NY;;USA;USA;;;;;12718986;70;
+I;Mahoney;Jayvyn;;M;01/07/2016;STSA;Southern Tier SOAR;; 2;;;Corning;NY;;USA;USA;;;;;12719004;71;
+I;Melnychuk;Olivia;;F;09/16/2016;STSA;Southern Tier SOAR;; 1;;;Corning;NY;;USA;USA;;;;;12823258;72;
+I;Butler;Zamara;;F;03/27/0015;GIAC;GIAC Navigators;;12;;;Ithaca;NY;;USA;USA;;;;;12718988;73;
+I;Berkheiser;Sienna;;F;02/16/2003;IHCR;Ithaca College Running Club;;10;;;Ithaca;NY;;USA;USA;;;;;12831495;74;
+I;Despreaux;Zack;;M;12/06/1993;UNA;Unattached;;23;;;Troy;PA;;USA;USA;;;;;912411;75;
+I;Bailey;Steph;;F;;UNA;Unattached;;36;;;;NY;;USA;USA;;;;;12827678;76;
+I;Golden;Maren;;F;;UNA;Unattached;; 8;;;Ithaca;NY;;USA;USA;;;;;12823433;77;
+I;Golden;Nora;;F;;UNA;Unattached;; 6;;;Ithaca;NY;;USA;USA;;;;;12823436;78;
+I;Salisbury;Jack;;M;07/06/1966;UNA;Unattached;;51;;;Tully;NY;;USA;USA;;;;;12150076;79;
+I;Sullivan;Joseph;;M;09/11/1957;UNA;Unattached;;60;;;Stratford;CT;;USA;USA;;;;;12149755;80;
+I;Ruffin;Zuri;;M;;UNA;Unattached;;10;;;Painted Post;NY;;USA;USA;;;;;11034060;81;
+I;Hughes;Brady;;M;;UNA;Unattached;;12;;;Painted Post;NY;;USA;USA;;;;;9681152;82;
+I;Anderson;Ryan;;M;;UNA;Unattached;;11;;;Horseheads;NY;;USA;USA;;;;;12827903;83;
+I;Dineen;Dylan;;M;;UNA;Unattached;;17;;;Watkins Glen;NY;;USA;USA;;;;;12835195;84;
+I;Holland;Sean;;M;;UNA;Unattached;;17;;;Watkins Glen;NY;;USA;USA;;;;;4652241;85;
+I;King;Nasir;;M;;MSC;Morrisville State College;;13;;;Morrisville;NY;;USA;USA;;;;;12404441;86;
+I;Lucey;Mattison;;F;;GPTC;Groton Project TC;;12;;;Groton;NY;;USA;USA;;;;;12719650;87;
+I;Beres;Bella;;F;08/24/2010;STSA;Southern Tier SOAR;; 7;;;Corning;NY;;USA;USA;;;;;12657776;88;
+I;Wagner;Abigail;;F;01/01/2011;STSA;Southern Tier SOAR;; 6;;;Corning;NY;;USA;USA;;;;;8199092;89;
+I;Jandrokovic;Jacob;;M;;GPTC;Groton Project TC;; 7;;;Groton;NY;;USA;USA;;;;;12719643;90;
+I;Sgrecci;Max;;M;;ODES;Odessa-Montour;; 8;;;Odessa;NY;;USA;USA;;;;;12020408;91;
+I;Zinger;Mo;;M;;ODES;Odessa-Montour;; 8;;;Odessa;NY;;USA;USA;;;;;12795979;92;
+I;Doran;Molly;;F;01/24/2012;STSA;Southern Tier SOAR;; 5;;;Corning;NY;;USA;USA;;;;;12239348;93;
+I;Justice;Anthony;;M;;GPTC;Groton Project TC;; 4;;;Groton;NY;;USA;USA;;;;;12719652;94;
+I;White;Tesla;;F;;NWEE;Northwestern Elementary School;; 2;;;Albion;PA;;USA;USA;;;;;12030870;95;
+I;Plumeau;Ryan;;M;;GPTC;Groton Project TC;; 1;;;Groton;NY;;USA;USA;;;;;12719922;96;
+I;baptist;journey;;F;03/13/2018;GIAC;GIAC Navigators;;12;;;Ithaca;NY;;USA;USA;;;;;12805552;97;
+I;Coppola;Sean;;M;06/11/2001;IHCR;Ithaca College Running Club;;12;;;Ithaca;NY;;USA;USA;;;;;12831498;98;
+I;Madcharo;Renee;;F;02/13/2002;IHCR;Ithaca College Running Club;;11;;;Ithaca;NY;;USA;USA;;;;;12831499;99;
+I;Mahmet;Matthew;;M;04/07/2001;IHCR;Ithaca College Running Club;;12;;;Ithaca;NY;;USA;USA;;;;;12831501;100;
+I;Weeks;Scott;;M;;GPTC;Groton Project TC;;45;;;Groton;NY;;USA;USA;;;;;12700051;101;
+I;Dziedzic;Nate;;M;;MSC;Morrisville State College;;13;;;Morrisville;NY;;USA;USA;;;;;12404442;102;
+I;Campbell;Benjamin;;M;;ODES;Odessa-Montour;;12;;;Odessa;NY;;USA;USA;;;;;8170028;103;
+I;Powers;Derek;;M;;MSC;Morrisville State College;;--;;;Morrisville;NY;;USA;USA;;;;;12808843;104;
+I;Wyre;Zach;;M;;ODES;Odessa-Montour;;12;;;Odessa;NY;;USA;USA;;;;;11904096;105;
+I;Eggleston;Keith;;M;;GPTC;Groton Project TC;;58;;;Groton;NY;;USA;USA;;;;;12719688;106;
+I;Zeigler;Olivia;;F;;NWEE;Northwestern Elementary School;; 7;;;Albion;PA;;USA;USA;;;;;12030839;107;
+I;Zinger;Evelyn;;F;;ODES;Odessa-Montour;; 8;;;Odessa;NY;;USA;USA;;;;;12795981;108;
+I;Wukovitz;Charlie;;M;07/07/2011;STSA;Southern Tier SOAR;; 5;;;Corning;NY;;USA;USA;;;;;12718987;109;
+I;Belcher;Alison;;F;;GPTC;Groton Project TC;; 5;;;Groton;NY;;USA;USA;;;;;12719648;110;
+I;Strobel;Lexi;;F;12/10/2010;STSA;Southern Tier SOAR;; 7;;;Corning;NY;;USA;USA;;;;;12657789;111;
+I;Logan;Aria;;F;;NWEE;Northwestern Elementary School;; 4;;;Albion;PA;;USA;USA;;;;;12030901;112;
+I;Moll;Monica;;F;;GPTC;Groton Project TC;;37;;;Groton;NY;;USA;USA;;;;;12834817;113;
+I;Belcher;Lauren;;F;;GPTC;Groton Project TC;; 3;;;Groton;NY;;USA;USA;;;;;12719649;114;
+I;Timmerman;Dan;;M;;UNA;Unattached;;37;;;;NY;;USA;USA;;;;;12720297;115;
+I;Boscia;William;;M;12/29/2008;UNA;Unattached;; 8;;;Ithaca;NY;;USA;USA;;;;;11176872;116;
+I;Ma;Jiaji;;M;;UNA;Unattached;;12;;;New Haven;NY;;USA;USA;;;;;12824491;117;
+I;Williams;Gary;;M;03/24/1964;UNA;Unattached;;53;;;Ithaca;NY;;USA;USA;;;;;12686511;118;
+I;Vanek;Steven;;M;;UNA;Unattached;;12;;;Ithaca;NY;;USA;USA;;;;;12719278;119;
+I;Hayden;Alistair;;M;;UNA;Unattached;;28;;;;NY;;USA;USA;;;;;12720002;120;
+I;Brosnan;Kurt;;M;;UNA;Unattached;;12;;;;NY;;USA;USA;;;;;12823201;121;
+I;Lambert;Oliver;;M;06/04/2005;UNA;Unattached;;12;;;Lansing;NY;;USA;USA;;;;;12156682;122;
+I;Lambert;Benjamin;;M;01/03/2007;UNA;Unattached;;11;;;Lansing;NY;;USA;USA;;;;;12156683;123;
+I;Woods;Michelle;;F;06/22/1975;UNA;Unattached;;42;;;Ithaca;NY;;USA;USA;;;;;12154353;124;
+I;Skilton;Amalia;;F;;UNA;Unattached;;26;;;;AZ;;USA;USA;;;;;340570;125;
+I;Golden;Sherry;;F;;UNA;Unattached;;39;;;Ithaca;NY;;USA;USA;;;;;12823428;126;
+I;Jackson;Kim;;F;12/16/1968;UNA;Unattached;;48;;;Ithaca;NY;;USA;USA;;;;;12166726;127;
+I;Hartman;Liz ;;F;06/02/1982;UNA;Unattached;;35;;;Ithaca;NY;;USA;USA;;;;;12134673;128;
+I;Hodges;Ken;;M;;UNA;Unattached;;64;;;Ithaca;NY;;USA;USA;;;;;12809168;129;
+I;Wood;Jeffrey;;M;;UNA;Unattached;;56;;;Vestal;NY;;USA;USA;;;;;12784491;130;
+I;Baker;Lucas;;M;;UNA;Unattached;;16;;;Marathon;NY;;USA;USA;;;;;5583368;131;
+I;Gulati;Samir;;M;;UNA;Unattached;;11;;;Horseheads;NY;;USA;USA;;;;;10487730;132;
+I;McCurdy;Charles;;M;;UNA;Unattached;;12;;;Trumansburg;NY;;USA;USA;;;;;12615805;133;
+I;Howley;Zayne;;M;;UNA;Unattached;;11;;;Trumansburg;NY;;USA;USA;;;;;10415460;134;
+I;Planty;Aaron;;M;;UNA;Unattached;;17;;;Watkins Glen;NY;;USA;USA;;;;;5583551;135;
+I;Gonzalez;Matthew;;M;;UNA;Unattached;;12;;;Ithaca;NY;;USA;USA;;;;;12799273;136;
+I;Nier;Mike;;M;11/27/1964;UNA;Unattached;;12;;;Rochester;NY;;USA;USA;;;;;12711844;137;
+I;Mora;Joseph ;;M;07/23/1961;UNA;Unattached;;56;;;Fayetteville ;NY;;USA;USA;;;;;12704278;138;
+I;Revelo;Jacob;;M;;UNA;Unattached;;15;;;Northampton;MA;;USA;USA;;;;;6634188;139;
+I;Howard;Calvin;;M;;UNA;Unattached;; 8;;;Delmar;NY;;USA;USA;;;;;11096788;140;
+I;Considine;Jake;;M;;UNA;Unattached;;11;;;Wilkes-Barre;PA;;USA;USA;;;;;10966667;141;
+I;SIlbert;Walter;;M;;UNA;Unattached;;46;;;Ithaca;NY;;USA;USA;;;;;12825695;142;
+I;Webster;Heather;;F;;UNA;Unattached;;--;;;;NY;;USA;USA;;;;;10916749;143;
+I;Vakkas;Xander;;M;;UNA;Unattached;; 9;;;Trumansburg;NY;;USA;USA;;;;;10866894;144;
+I;Kerwan;Ayla;;F;;UNA;Unattached;;12;;;Horseheads;NY;;USA;USA;;;;;8052305;145;
+I;Oakes ;Samantha ;;F;;UNA;Unattached;;12;;;;NY;;USA;USA;;;;;12822877;146;
+I;Mcmullen;Tim;;M;;UNA;Unattached;;--;;;Columbia;MO;;USA;USA;;;;;4457897;147;
+I;Rybinski;Mark;;M;;UNA;Unattached;;62;;;;NY;;USA;USA;;;;;12830700;148;
+I;Ulrich;Scott;;M;;UNA;Unattached;;13;;;Brooktondale;NY;;USA;USA;;;;;12676273;149;
+I;Oakes;Tabitha;;F;;UNA;Unattached;;10;;;;NY;;USA;USA;;;;;12822886;150;
+I;More;Tracey;;M;;UNA;Unattached;;12;;;Alfred Station;NY;;USA;USA;;;;;12777477;151;
+I;Clark;John;;M;;UNA;Unattached;;45;;;Cranesville;PA;;USA;USA;;;;;12786238;152;
+I;Logan;Kim;;F;;UNA;Unattached;;28;;;Cranesville;PA;;USA;USA;;;;;12786240;153;
+I;Woodruff;Andrew;;M;08/04/2003;IHCR;Ithaca College Running Club;;10;;;Ithaca;NY;;USA;USA;;;;;12831497;154;
+I;Reisch;Dylan;;M;12/26/2001;IHCR;Ithaca College Running Club;;11;;;Ithaca;NY;;USA;USA;;;;;12831504;155;
+I;Conlon;Jillian;;F;07/16/2001;IHCR;Ithaca College Running Club;;12;;;Ithaca;NY;;USA;USA;;;;;12831500;156;
+I;Roman;Jake;;M;;MSC;Morrisville State College;;13;;;Morrisville;NY;;USA;USA;;;;;12404456;157;
+I;Turner;Caleb;;M;;MSC;Morrisville State College;;14;;;Morrisville;NY;;USA;USA;;;;;11258110;158;
+I;Lombardi;Jen;;F;;GPTC;Groton Project TC;;28;;;Groton;NY;;USA;USA;;;;;12719654;159;
+I;Belcher;Nicole;;F;;GPTC;Groton Project TC;;38;;;Groton;NY;;USA;USA;;;;;12834814;160;
+I;Varano;Jordan;;M;;UNA;Unattached;;38;;;Binghamton;NY;;USA;USA;;;;;12834769;161;
+I;Collier;Christopher;;M;;UNA;Unattached;;45;;;;CA;;USA;USA;;;;;12835528;162;
+I;Strobel III;Charles W;;M;;UNA;Unattached;;12;;;Odessa;NY;;USA;USA;;;;;12796496;163;
+I;Golden;Ian;;M;;UNA;Unattached;;40;;;Ithaca;NY;;USA;USA;;;;;12823260;164;
+I;Lohr;Ryan;;M;;UNA;Unattached;;18;;;West Seneca;NY;;USA;USA;;;;;3734077;165;
+I;Frazier;Peter;;M;11/10/1978;UNA;Unattached;;38;;;Ithaca;NY;;USA;USA;;;;;12171959;166;
+I;Salisbury;Toby;;M;08/30/2001;UNA;Unattached;;16;;;Tully;NY;;USA;USA;;;;;5777801;167;
+I;Lambert;Tristan;;M;06/23/1976;UNA;Unattached;;41;;;Lansing;NY;;USA;USA;;;;;12156681;168;
+I;Eisner;Tess;;F;;UNA;Unattached;;12;;;Horseheads;NY;;USA;USA;;;;;9684469;169;
+I;Trimber;Connor;;M;;UNA;Unattached;;10;;;Horseheads;NY;;USA;USA;;;;;10832078;170;
+D;Lewis;Xzavier;;M;;UNA;Unattached;;14;60;7.40;E;1;1;;;Unverified: Xzavier 
+D;Tchiprout;Alex;;M;05/04/2003;IHCR;Ithaca College Running Club;;10;60;8.00;E;1;2;;;Unverified: 
+D;Polanish;Emily;;F;;UNA;Unattached;;12;60;10.00;E;1;3;;;Unverified: 60m
+D;Polanish;Emily;;F;05/29/2002;IHCR;Ithaca College Running Club;;11;60;10.00;E;1;4;;;Unverified: 
+D;Weeks;Theodore;;M;;GPTC;Groton Project TC;; 1;60;11.00;E;1;5;;;Unverified: 
+D;Marzan;Matthew;;M;;UNA;Unattached;; 9;60;8.00;E;2;6;;;Unverified: Matthew Marzan
+D;Milano;Patrick;;M;12/18/1989;UNA;Unattached;;12;60;8.50;E;2;7;;;Unverified: 
+D;Silbert;Ursula;;F;;UNA;Unattached;; 7;60;10.00;E;2;8;;;Unverified: 
+D;Golden;Camryn;;F;;UNA;Unattached;; -2;60;15.00;E;2;9;;;Unverified: 
+D;Kresock;Adrian;;M;02/27/2020;UNA;Unattached;; -3;60;50.00;E;2;10;;;Unverified: 
+D;Kresock;Joel;;M;02/27/2020;UNA;Unattached;; -3;60;50.00;E;2;11;;;Unverified: 
+D;Salisbury;Bradock;;M;;UNA;Unattached;;11;60;7.50;E;3;12;;;Unverified: 
+D;Janeski;Ryan;;M;07/26/2005;UNA;Unattached;;12;60;7.90;E;3;13;;;Unverified: 
+D;Bosket;Noah;;M;;UNA;Unattached;;18;60;8.00;E;3;14;;;Unverified: Noah bosket
+D;Eastman;James;;M;;UNA;Unattached;;20;60;8.00;E;3;15;;;Unverified: James Eastman 
+D;Ruffer;Noah;;M;;UNA;Unattached;;12;60;8.00;E;3;16;;;Unverified: 
+D;Levantovich;Liam;;M;;UNA;Unattached;;12;60;8.50;E;3;17;;;Unverified: 
+D;McEachen;John;;M;;UNA;Unattached;;47;60;8.50;E;3;18;;;Unverified: 
+D;Mozo;Robert;;M;;UNA;Unattached;;54;60;9.70;E;3;19;;;Unverified: 
+D;Salisbury;Mike;;M;;UNA;Unattached;;39;60;10.00;E;3;20;;;Unverified: 
+D;DeSantis;Conor;;M;01/20/2010;UNA;Unattached;; 7;60;10.35;E;3;21;;;Unverified: 
+D;Smith;Jacob;;M;;UNA;Unattached;;19;60;10.50;E;3;22;;;Unverified: 
+D;Salisbury;Aiden;;M;;UNA;Unattached;; 2;60;11.50;E;3;23;;;Unverified: 
+D;DeSantis;Rowan;;F;12/12/2013;UNA;Unattached;; 3;60;11.86;E;3;24;;;Unverified: 
+D;Nimaga;Karim;;M;;MSC;Morrisville State College;;--;60;7.20;E;4;25;;;Unverified: 
+D;Russo;Logan;;M;10/27/2010;STSA;Southern Tier SOAR;; 7;60;9.30;E;4;26;;;Unverified: 
+D;Mosher;Henry;;M;03/12/2013;STSA;Southern Tier SOAR;; 4;60;9.50;E;4;27;;;Unverified: 
+D;White;Gavin;;M;;ITHY;Ithaca Youth Bureau;; 7;60;9.50;E;4;28;;;Unverified: 
+D;Awa;Asa;;M;07/30/2013;GIAC;GIAC Navigators;;12;60;9.72;E;4;29;;;Unverified: 
+D;Johnston;Matti;;F;;CPPE;Corning;; 8;60;9.8;E;4;30;;;Unverified: Quinney
+D;Harrington;Connor;;M;03/22/2011;STSA;Southern Tier SOAR;; 6;60;9.80;E;4;31;;;Unverified: 
+D;Younkin;Lauren;;F;10/08/2010;STSA;Southern Tier SOAR;; 7;60;9.80;E;4;32;;;Unverified: 
+D;Feschotte;Maya;;F;;ITHY;Ithaca Youth Bureau;; 6;60;10.00;E;4;33;;;Unverified: 
+D;Baptist;Jerome;;M;10/12/2012;GIAC;GIAC Navigators;;12;60;10.13;E;4;34;;;Unverified: 
+D;Ruza;Sylas;;M;07/30/2011;STSA;Southern Tier SOAR;; 5;60;10.20;E;4;35;;;Unverified: 
+D;Hazlett;Ben;;M;09/03/2010;STSA;Southern Tier SOAR;; 7;60;10.20;E;4;36;;;Unverified: 
+D;Baptist;Jerod;;M;10/12/2012;GIAC;GIAC Navigators;;12;60;10.40;E;4;37;;;Unverified: 
+D;Sierra;Ava;;F;07/06/2013;GIAC;GIAC Navigators;;12;60;10.43;E;4;38;;;Unverified: 
+D;Weeks;Madelyn;;F;;GPTC;Groton Project TC;; 6;60;10.55;E;4;39;;;Unverified: 
+D;Swarthout;Karina;;F;04/17/2010;STSA;Southern Tier SOAR;; 7;60;10.70;E;4;40;;;Unverified: 
+D;Spears;Raheem;;M;08/12/2012;GIAC;GIAC Navigators;;12;60;10.84;E;4;41;;;Unverified: 
+D;Stewart;Hayden;;F;01/10/2012;GIAC;GIAC Navigators;;12;60;10.96;E;4;42;;;Unverified: 
+D;Lombardi;Nattalie;;F;;GPTC;Groton Project TC;; 6;60;10.98;E;4;43;;;Unverified: 
+D;Worley;Colton;;M;01/04/2013;STSA;Southern Tier SOAR;; 4;60;11.00;E;4;44;;;Unverified: 
+D;Boscia;Dan;;M;;ITHY;Ithaca Youth Bureau;; 5;60;11.00;E;4;45;;;Unverified: 
+D;Lucena;Janaiyah;;F;07/17/2013;GIAC;GIAC Navigators;;12;60;11.10;E;4;46;;;Unverified: 
+D;Stump;Gary;;M;01/20/2011;STSA;Southern Tier SOAR;; 6;60;11.10;E;4;47;;;Unverified: 
+D;Lucena;Joharra;;F;07/17/2013;GIAC;GIAC Navigators;;12;60;11.22;E;4;48;;;Unverified: 
+D;Morrone;Amari;;F;02/22/2015;GIAC;GIAC Navigators;;12;60;11.31;E;4;49;;;Unverified: 
+D;Mugamb-Loanide;Yekaterina;;F;05/26/2015;GIAC;GIAC Navigators;;12;60;11.31;E;4;50;;;Unverified: 
+D;Smith;Reis;;F;05/08/2013;STSA;Southern Tier SOAR;; 4;60;11.40;E;4;51;;;Unverified: 
+D;Baptist;Joaquin;;M;09/09/2015;GIAC;GIAC Navigators;;12;60;11.42;E;4;52;;;Unverified: 
+D;LeShore;Carter;;M;11/29/2012;GIAC;GIAC Navigators;;12;60;11.48;E;4;53;;;Unverified: 
+D;Nichols;Elias;;M;01/13/2015;STSA;Southern Tier SOAR;; 2;60;11.50;E;4;54;;;Unverified: 
+D;Mack;Augustine;;M;05/08/2014;GIAC;GIAC Navigators;;12;60;11.59;E;4;55;;;Unverified: 
+D;Lucena;Johnny;;M;03/04/2014;GIAC;GIAC Navigators;;12;60;11.59;E;4;56;;;Unverified: 
+D;Ashton;Ysenia;;F;05/18/2014;GIAC;GIAC Navigators;;12;60;11.70;E;4;57;;;Unverified: 
+D;Russo;Elliana;;F;06/06/2015;STSA;Southern Tier SOAR;; 2;60;11.70;E;4;58;;;Unverified: 
+D;Miller;Violet;;F;12/27/2012;STSA;Southern Tier SOAR;; 5;60;12.00;E;4;59;;;Unverified: 
+D;Cummings;Zion;;M;01/20/2015;GIAC;GIAC Navigators;;12;60;12.40;E;4;60;;;Unverified: 
+D;Rose;Taytum;;F;02/20/2014;STSA;Southern Tier SOAR;; 3;60;12.50;E;4;61;;;Unverified: 
+D;Baptist;Jocelyn;;F;09/09/2015;GIAC;GIAC Navigators;;12;60;12.60;E;4;62;;;Unverified: 
+D;Haynes;Somaya;;F;08/16/2012;GIAC;GIAC Navigators;;12;60;12.75;E;4;63;;;Unverified: 
+D;Justice;Nicholas;;M;;GPTC;Groton Project TC;; 1;60;12.79;E;4;64;;;Unverified: 
+D;Campbell;Xavier;;M;08/01/2013;GIAC;GIAC Navigators;;12;60;12.83;E;4;65;;;Unverified: 
+D;Abdur-Razzaaq;Jahiem;;M;12/14/2011;GIAC;GIAC Navigators;;12;60;12.83;E;4;66;;;Unverified: 
+D;Abdur-Razzaaq;Jamarea;;F;04/14/2015;GIAC;GIAC Navigators;;12;60;12.83;E;4;67;;;Unverified: 
+D;McBean;Amor;;M;12/30/2012;GIAC;GIAC Navigators;;12;60;12.83;E;4;68;;;Unverified: 
+D;Moll;Oliver;;M;;GPTC;Groton Project TC;; 3;60;13.00;E;4;69;;;Unverified: 
+D;Campbell;Archibald;;M;08/29/2016;GIAC;GIAC Navigators;;12;60;13.61;E;4;70;;;Unverified: 
+D;Mahoney;Jayvyn;;M;01/07/2016;STSA;Southern Tier SOAR;; 2;60;14.00;E;4;71;;;Unverified: 
+D;Melnychuk;Olivia;;F;09/16/2016;STSA;Southern Tier SOAR;; 1;60;14.00;E;4;72;;;Unverified: 
+D;Butler;Zamara;;F;03/27/0015;GIAC;GIAC Navigators;;12;60;16.45;E;4;73;;;Unverified: 
+D;Lewis;Xzavier;;M;;UNA;Unattached;;14;200;24.50;E;1;1;;;Unverified: Xzavier 
+D;Tchiprout;Alex;;M;05/04/2003;IHCR;Ithaca College Running Club;;10;200;25.00;E;1;2;;;Unverified: 
+D;Berkheiser;Sienna;;F;02/16/2003;IHCR;Ithaca College Running Club;;10;200;30.00;E;1;74;;;Unverified: 
+D;Weeks;Theodore;;M;;GPTC;Groton Project TC;; 1;200;39.00;E;1;5;;;Unverified: 
+D;Marzan;Matthew;;M;;UNA;Unattached;; 9;200;28.00;E;2;6;;;Unverified: 
+D;Milano;Patrick;;M;12/18/1989;UNA;Unattached;;12;200;29.20;E;2;7;;;Unverified: 
+D;Despreaux;Zack;;M;12/06/1993;UNA;Unattached;;23;200;30.0;E;2;75;;;Unverified: 
+D;Bailey;Steph;;F;;UNA;Unattached;;36;200;31.00;E;2;76;;;Unverified: 
+D;Golden;Maren;;F;;UNA;Unattached;; 8;200;34.00;E;2;77;;;Unverified: 
+D;Golden;Nora;;F;;UNA;Unattached;; 6;200;34.00;E;2;78;;;Unverified: 
+D;Salisbury;Jack;;M;07/06/1966;UNA;Unattached;;51;200;35.00;E;2;79;;;Unverified: 200 meter
+D;Silbert;Ursula;;F;;UNA;Unattached;; 7;200;50.00;E;2;8;;;Unverified: 
+D;Sullivan;Joseph;;M;09/11/1957;UNA;Unattached;;60;200;55.00;E;2;80;;;Unverified: 
+D;Golden;Camryn;;F;;UNA;Unattached;; -2;200;1:30.00;E;2;9;;;Unverified: 
+D;Ruffin;Zuri;;M;;UNA;Unattached;;10;200;23.50;E;3;81;;;Verified
+D;Hughes;Brady;;M;;UNA;Unattached;;12;200;23.5;E;3;82;;;Unverified: Quinney 
+D;Bosket;Noah;;M;;UNA;Unattached;;18;200;24.00;E;3;14;;;Unverified: Noah bosket
+D;Anderson;Ryan;;M;;UNA;Unattached;;11;200;25.00;E;3;83;;;Unverified: 
+D;Janeski;Ryan;;M;07/26/2005;UNA;Unattached;;12;200;25.20;E;3;13;;;Unverified: 
+D;Ruffer;Noah;;M;;UNA;Unattached;;12;200;25.50;E;3;16;;;Unverified: 
+D;Levantovich;Liam;;M;;UNA;Unattached;;12;200;26.00;E;3;17;;;Unverified: 
+D;McEachen;John;;M;;UNA;Unattached;;47;200;28.50;E;3;18;;;Unverified: 
+D;Dineen;Dylan;;M;;UNA;Unattached;;17;200;30.00;E;3;84;;;Unverified: 
+D;Holland;Sean;;M;;UNA;Unattached;;17;200;30.00;E;3;85;;;Unverified: 
+D;Mozo;Robert;;M;;UNA;Unattached;;54;200;31.00;E;3;19;;;Unverified: 
+D;Smith;Jacob;;M;;UNA;Unattached;;19;200;38.00;E;3;22;;;Unverified: 
+D;DeSantis;Conor;;M;01/20/2010;UNA;Unattached;; 7;200;39.12;E;3;21;;;Unverified: 
+D;DeSantis;Rowan;;F;12/12/2013;UNA;Unattached;; 3;200;40.60;E;3;24;;;Unverified: 
+D;Hughes;Brady;;M;;CPPE;Corning;;12;200;23.48;E;4;82;;;Unverified: Quinney
+D;Nimaga;Karim;;M;;MSC;Morrisville State College;;--;200;24.50;E;4;25;;;Unverified: 
+D;King;Nasir;;M;;MSC;Morrisville State College;;13;200;27.00;E;4;86;;;Unverified: 
+D;Johnston;Matti;;F;;CPPE;Corning;; 8;200;27.89;E;4;30;;;Unverified: Quinney
+D;Lucey;Mattison;;F;;GPTC;Groton Project TC;;12;200;28.51;E;4;87;;;Unverified: 
+D;Beres;Bella;;F;08/24/2010;STSA;Southern Tier SOAR;; 7;200;32.00;E;4;88;;;Unverified: 
+D;Wagner;Abigail;;F;01/01/2011;STSA;Southern Tier SOAR;; 6;200;32.00;E;4;89;;;Unverified: 
+D;Jandrokovic;Jacob;;M;;GPTC;Groton Project TC;; 7;200;32.01;E;4;90;;;Unverified: 
+D;Sgrecci;Max;;M;;ODES;Odessa-Montour;; 8;200;32.50;E;4;91;;;Unverified: 
+D;Zinger;Mo;;M;;ODES;Odessa-Montour;; 8;200;32.50;E;4;92;;;Unverified: 
+D;Russo;Logan;;M;10/27/2010;STSA;Southern Tier SOAR;; 7;200;33.00;E;4;26;;;Unverified: 
+D;Doran;Molly;;F;01/24/2012;STSA;Southern Tier SOAR;; 5;200;33.00;E;4;93;;;Unverified: 
+D;Harrington;Connor;;M;03/22/2011;STSA;Southern Tier SOAR;; 6;200;34.00;E;4;31;;;Unverified: 
+D;Awa;Asa;;M;07/30/2013;GIAC;GIAC Navigators;;12;200;34.80;E;4;29;;;Unverified: 
+D;Sierra;Ava;;F;07/06/2013;GIAC;GIAC Navigators;;12;200;34.80;E;4;38;;;Unverified: 
+D;Stewart;Hayden;;F;01/10/2012;GIAC;GIAC Navigators;;12;200;34.80;E;4;42;;;Unverified: 
+D;Younkin;Lauren;;F;10/08/2010;STSA;Southern Tier SOAR;; 7;200;35.10;E;4;32;;;Unverified: 
+D;Lucena;Joharra;;F;07/17/2013;GIAC;GIAC Navigators;;12;200;35.97;E;4;48;;;Unverified: 
+D;Hazlett;Ben;;M;09/03/2010;STSA;Southern Tier SOAR;; 7;200;36.00;E;4;36;;;Unverified: 
+D;Baptist;Jerod;;M;10/12/2012;GIAC;GIAC Navigators;;12;200;36.73;E;4;37;;;Unverified: 
+D;White;Gavin;;M;;ITHY;Ithaca Youth Bureau;; 7;200;37.00;E;4;28;;;Unverified: 
+D;Baptist;Jerome;;M;10/12/2012;GIAC;GIAC Navigators;;12;200;37.85;E;4;34;;;Unverified: 
+D;Ruza;Sylas;;M;07/30/2011;STSA;Southern Tier SOAR;; 5;200;38.00;E;4;35;;;Unverified: 
+D;Swarthout;Karina;;F;04/17/2010;STSA;Southern Tier SOAR;; 7;200;38.40;E;4;40;;;Unverified: 
+D;Worley;Colton;;M;01/04/2013;STSA;Southern Tier SOAR;; 4;200;38.50;E;4;44;;;Unverified: 
+D;Stump;Gary;;M;01/20/2011;STSA;Southern Tier SOAR;; 6;200;38.70;E;4;47;;;Unverified: 
+D;Lucena;Janaiyah;;F;07/17/2013;GIAC;GIAC Navigators;;12;200;39.02;E;4;46;;;Unverified: 
+D;Boscia;Dan;;M;;ITHY;Ithaca Youth Bureau;; 5;200;40.00;E;4;45;;;Unverified: 
+D;Spears;Raheem;;M;08/12/2012;GIAC;GIAC Navigators;;12;200;40.99;E;4;41;;;Unverified: 
+D;Lombardi;Nattalie;;F;;GPTC;Groton Project TC;; 6;200;41.03;E;4;43;;;Unverified: 
+D;LeShore;Carter;;M;11/29/2012;GIAC;GIAC Navigators;;12;200;41.99;E;4;53;;;Unverified: 
+D;Mugamb-Loanide;Yekaterina;;F;05/26/2015;GIAC;GIAC Navigators;;12;200;42.17;E;4;50;;;Unverified: 
+D;Morrone;Amari;;F;02/22/2015;GIAC;GIAC Navigators;;12;200;42.17;E;4;49;;;Unverified: 
+D;Justice;Anthony;;M;;GPTC;Groton Project TC;; 4;200;43.09;E;4;94;;;Unverified: 
+D;Rose;Taytum;;F;02/20/2014;STSA;Southern Tier SOAR;; 3;200;43.20;E;4;61;;;Unverified: 
+D;Russo;Elliana;;F;06/06/2015;STSA;Southern Tier SOAR;; 2;200;44.10;E;4;58;;;Unverified: 
+D;White;Tesla;;F;;NWEE;Northwestern Elementary School;; 2;200;45.00;E;4;95;;;Unverified: 
+D;Lucena;Johnny;;M;03/04/2014;GIAC;GIAC Navigators;;12;200;46.16;E;4;56;;;Unverified: 
+D;Mack;Augustine;;M;05/08/2014;GIAC;GIAC Navigators;;12;200;46.16;E;4;55;;;Unverified: 
+D;Baptist;Joaquin;;M;09/09/2015;GIAC;GIAC Navigators;;12;200;47.14;E;4;52;;;Unverified: 
+D;Nichols;Elias;;M;01/13/2015;STSA;Southern Tier SOAR;; 2;200;47.30;E;4;54;;;Unverified: 
+D;Smith;Reis;;F;05/08/2013;STSA;Southern Tier SOAR;; 4;200;47.30;E;4;51;;;Unverified: 
+D;Miller;Violet;;F;12/27/2012;STSA;Southern Tier SOAR;; 5;200;48.00;E;4;59;;;Unverified: 
+D;Justice;Nicholas;;M;;GPTC;Groton Project TC;; 1;200;49.18;E;4;64;;;Unverified: 
+D;Melnychuk;Olivia;;F;09/16/2016;STSA;Southern Tier SOAR;; 1;200;50.00;E;4;72;;;Unverified: 
+D;Mahoney;Jayvyn;;M;01/07/2016;STSA;Southern Tier SOAR;; 2;200;50.70;E;4;71;;;Unverified: 
+D;Baptist;Jocelyn;;F;09/09/2015;GIAC;GIAC Navigators;;12;200;51.75;E;4;62;;;Unverified: 
+D;Campbell;Archibald;;M;08/29/2016;GIAC;GIAC Navigators;;12;200;52.02;E;4;70;;;Unverified: 
+D;Abdur-Razzaaq;Jamarea;;F;04/14/2015;GIAC;GIAC Navigators;;12;200;52.32;E;4;67;;;Unverified: 
+D;Ashton;Ysenia;;F;05/18/2014;GIAC;GIAC Navigators;;12;200;52.32;E;4;57;;;Unverified: 
+D;Plumeau;Ryan;;M;;GPTC;Groton Project TC;; 1;200;55.0;E;4;96;;;Unverified: 
+D;McBean;Amor;;M;12/30/2012;GIAC;GIAC Navigators;;12;200;56.04;E;4;68;;;Unverified: 
+D;Cummings;Zion;;M;01/20/2015;GIAC;GIAC Navigators;;12;200;56.04;E;4;60;;;Unverified: 
+D;Campbell;Xavier;;M;08/01/2013;GIAC;GIAC Navigators;;12;200;56.04;E;4;65;;;Unverified: 
+D;Haynes;Somaya;;F;08/16/2012;GIAC;GIAC Navigators;;12;200;59.89;E;4;63;;;Unverified: 
+D;Abdur-Razzaaq;Jahiem;;M;12/14/2011;GIAC;GIAC Navigators;;12;200;59.89;E;4;66;;;Unverified: 
+D;Butler;Zamara;;F;03/27/0015;GIAC;GIAC Navigators;;12;200;59.89;E;4;73;;;Unverified: 
+D;baptist;journey;;F;03/13/2018;GIAC;GIAC Navigators;;12;200;59.90;E;4;97;;;Unverified: 
+D;Coppola;Sean;;M;06/11/2001;IHCR;Ithaca College Running Club;;12;1MILE;5:45.00;E;1;98;;;Unverified: 
+D;Madcharo;Renee;;F;02/13/2002;IHCR;Ithaca College Running Club;;11;1MILE;6:45.00;E;1;99;;;Unverified: 
+D;Mahmet;Matthew;;M;04/07/2001;IHCR;Ithaca College Running Club;;12;1MILE;9:00.00;E;1;100;;;Unverified: 
+D;Weeks;Scott;;M;;GPTC;Groton Project TC;;45;1MILE;4:50.00;E;4;101;;;Unverified: 
+D;King;Nasir;;M;;MSC;Morrisville State College;;13;1MILE;5:00.00;E;4;86;;;Unverified: 
+D;Dziedzic;Nate;;M;;MSC;Morrisville State College;;13;1MILE;5:15.00;E;4;102;;;Unverified: 
+D;Campbell;Benjamin;;M;;ODES;Odessa-Montour;;12;1MILE;5:30.00;E;4;103;;;Unverified: 
+D;Powers;Derek;;M;;MSC;Morrisville State College;;--;1MILE;5:30.00;E;4;104;;;Unverified: 
+D;Wyre;Zach;;M;;ODES;Odessa-Montour;;12;1MILE;5:45.00;E;4;105;;;Unverified: 
+D;Eggleston;Keith;;M;;GPTC;Groton Project TC;;58;1MILE;5:50.00;E;4;106;;;Unverified: 
+D;Wagner;Abigail;;F;01/01/2011;STSA;Southern Tier SOAR;; 6;1MILE;6:20.00;E;4;89;;;Unverified: 
+D;Beres;Bella;;F;08/24/2010;STSA;Southern Tier SOAR;; 7;1MILE;6:20.00;E;4;88;;;Unverified: 
+D;Zeigler;Olivia;;F;;NWEE;Northwestern Elementary School;; 7;1MILE;6:25.00;E;4;107;;;Unverified: 
+D;Zinger;Evelyn;;F;;ODES;Odessa-Montour;; 8;1MILE;6:30.00;E;4;108;;;Unverified: 
+D;Wukovitz;Charlie;;M;07/07/2011;STSA;Southern Tier SOAR;; 5;1MILE;6:30.00;E;4;109;;;Unverified: 
+D;Belcher;Alison;;F;;GPTC;Groton Project TC;; 5;1MILE;6:50.00;E;4;110;;;Unverified: 
+D;Strobel;Lexi;;F;12/10/2010;STSA;Southern Tier SOAR;; 7;1MILE;6:50.00;E;4;111;;;Unverified: 
+D;Doran;Molly;;F;01/24/2012;STSA;Southern Tier SOAR;; 5;1MILE;6:50.00;E;4;93;;;Unverified: 
+D;Logan;Aria;;F;;NWEE;Northwestern Elementary School;; 4;1MILE;7:15.00;E;4;112;;;Unverified: 
+D;White;Tesla;;F;;NWEE;Northwestern Elementary School;; 2;1MILE;7:22.00;E;4;95;;;Unverified: 
+D;Moll;Monica;;F;;GPTC;Groton Project TC;;37;1MILE;7:30.00;E;4;113;;;Unverified: 
+D;Belcher;Lauren;;F;;GPTC;Groton Project TC;; 3;1MILE;7:40.00;E;4;114;;;Unverified: 
+D;Timmerman;Dan;;M;;UNA;Unattached;;37;1MILE;4:50.00;E;2;115;;;Unverified: FLRC Track Meet Feb
+D;Milano;Patrick;;M;12/18/1989;UNA;Unattached;;12;1MILE;4:55.00;E;2;7;;;Unverified: 
+D;Boscia;William;;M;12/29/2008;UNA;Unattached;; 8;1MILE;5:25;E;2;116;;;Unverified: Barton
+D;Despreaux;Zack;;M;12/06/1993;UNA;Unattached;;23;1MILE;5:30.00;E;2;75;;;Unverified: 
+D;Ma;Jiaji;;M;;UNA;Unattached;;12;1MILE;5:30.00;E;2;117;;;Unverified: 
+D;Williams;Gary;;M;03/24/1964;UNA;Unattached;;53;1MILE;5:50.00;E;2;118;;;Unverified: 
+D;Vanek;Steven;;M;;UNA;Unattached;;12;1MILE;5:55.00;E;2;119;;;Unverified: Steven Vanek
+D;Hayden;Alistair;;M;;UNA;Unattached;;28;1MILE;6:00.00;E;2;120;;;Unverified: 
+D;Brosnan;Kurt;;M;;UNA;Unattached;;12;1MILE;6:20.00;E;2;121;;;Unverified: 
+D;Lambert;Oliver;;M;06/04/2005;UNA;Unattached;;12;1MILE;6:30.00;E;2;122;;;Unverified: flrc outdoor
+D;Lambert;Benjamin;;M;01/03/2007;UNA;Unattached;;11;1MILE;6:30.00;E;2;123;;;Unverified: FLRC indoor
+D;Woods;Michelle;;F;06/22/1975;UNA;Unattached;;42;1MILE;6:35.00;E;2;124;;;Unverified: 
+D;Golden;Maren;;F;;UNA;Unattached;; 8;1MILE;6:38.00;E;2;77;;;Unverified: 
+D;Golden;Nora;;F;;UNA;Unattached;; 6;1MILE;6:39.00;E;2;78;;;Unverified: 
+D;Salisbury;Jack;;M;07/06/1966;UNA;Unattached;;51;1MILE;6:40.00;E;2;79;;;Unverified: Mile
+D;Skilton;Amalia;;F;;UNA;Unattached;;26;1MILE;6:40.00;E;2;125;;;Unverified: 
+D;Golden;Sherry;;F;;UNA;Unattached;;39;1MILE;6:40.00;E;2;126;;;Unverified: 
+D;Jackson;Kim;;F;12/16/1968;UNA;Unattached;;48;1MILE;6:45.00;E;2;127;;;Unverified: 
+D;Hartman;Liz ;;F;06/02/1982;UNA;Unattached;;35;1MILE;6:45.00;E;2;128;;;Unverified: 
+D;Hodges;Ken;;M;;UNA;Unattached;;64;1MILE;7:10.00;E;2;129;;;Unverified: FLRC February All-Comers
+D;Wood;Jeffrey;;M;;UNA;Unattached;;56;1MILE;7:10.00;E;2;130;;;Unverified: 
+D;Sullivan;Joseph;;M;09/11/1957;UNA;Unattached;;60;1MILE;8:40.00;E;2;80;;;Unverified: 
+D;Baker;Lucas;;M;;UNA;Unattached;;16;1MILE;4:34.00;E;3;131;;;Unverified: 
+D;Gulati;Samir;;M;;UNA;Unattached;;11;1MILE;4:50.00;E;3;132;;;Unverified: 
+D;McCurdy;Charles;;M;;UNA;Unattached;;12;1MILE;4:50.00;E;3;133;;;Unverified: February all comers meet
+D;Howley;Zayne;;M;;UNA;Unattached;;11;1MILE;4:53.11;E;3;134;;;Unverified: Section IV Class Championships 2
+D;Planty;Aaron;;M;;UNA;Unattached;;17;1MILE;5:00.00;E;3;135;;;Unverified: 
+D;Gonzalez;Matthew;;M;;UNA;Unattached;;12;1MILE;5:00;E;3;136;;;Unverified: Club Penn Relays
+D;Nier;Mike;;M;11/27/1964;UNA;Unattached;;12;1MILE;5:02.00;E;3;137;;;Unverified: Hartshorne
+D;Mora;Joseph ;;M;07/23/1961;UNA;Unattached;;56;1MILE;5:05.00;E;3;138;;;Unverified: Flrc February track meet
+D;Revelo;Jacob;;M;;UNA;Unattached;;15;1MILE;5:10.00;E;3;139;;;Unverified: 
+D;Howard;Calvin;;M;;UNA;Unattached;; 8;1MILE;5:15.00;E;3;140;;;Unverified: Time trial
+D;Considine;Jake;;M;;UNA;Unattached;;11;1MILE;5:15.00;E;3;141;;;Unverified: 
+D;Dineen;Dylan;;M;;UNA;Unattached;;17;1MILE;5:30.00;E;3;84;;;Unverified: 
+D;Holland;Sean;;M;;UNA;Unattached;;17;1MILE;5:30.00;E;3;85;;;Unverified: 
+D;SIlbert;Walter;;M;;UNA;Unattached;;46;1MILE;5:40.00;E;3;142;;;Unverified: 
+D;Webster;Heather;;F;;UNA;Unattached;;--;1MILE;5:45.00;E;3;143;;;Unverified: Heather Webster
+D;Vakkas;Xander;;M;;UNA;Unattached;; 9;1MILE;5:48.00;E;3;144;;;Unverified: -
+D;Mozo;Robert;;M;;UNA;Unattached;;54;1MILE;6:10.00;E;3;19;;;Unverified: 
+D;Kerwan;Ayla;;F;;UNA;Unattached;;12;1MILE;6:10.00;E;3;145;;;Unverified: Comers Meet
+D;Oakes ;Samantha ;;F;;UNA;Unattached;;12;1MILE;6:10.00;E;3;146;;;Unverified: 
+D;Mcmullen;Tim;;M;;UNA;Unattached;;--;1MILE;6:30.00;E;3;147;;;Unverified: 
+D;Rybinski;Mark;;M;;UNA;Unattached;;62;1MILE;6:30.00;E;3;148;;;Unverified: FLRC
+D;Ulrich;Scott;;M;;UNA;Unattached;;13;1MILE;6:40.00;E;3;149;;;Unverified: 
+D;Smith;Jacob;;M;;UNA;Unattached;;19;1MILE;6:56.00;E;3;22;;;Unverified: 
+D;Oakes;Tabitha;;F;;UNA;Unattached;;10;1MILE;7:00.00;E;3;150;;;Unverified: 
+D;More;Tracey;;M;;UNA;Unattached;;12;1MILE;7:20.00;E;3;151;;;Unverified: FLRC Februrary All Comers Meet
+D;Clark;John;;M;;UNA;Unattached;;45;1MILE;7:22.00;E;3;152;;;Unverified: 
+D;Logan;Kim;;F;;UNA;Unattached;;28;1MILE;9:00.00;E;3;153;;;Unverified: 
+D;Woodruff;Andrew;;M;08/04/2003;IHCR;Ithaca College Running Club;;10;5000;18:00.00;E;1;154;;;Unverified: 
+D;Reisch;Dylan;;M;12/26/2001;IHCR;Ithaca College Running Club;;11;5000;20:00.00;E;1;155;;;Unverified: 
+D;Conlon;Jillian;;F;07/16/2001;IHCR;Ithaca College Running Club;;12;5000;25:00.00;E;1;156;;;Unverified: 
+D;Mahmet;Matthew;;M;04/07/2001;IHCR;Ithaca College Running Club;;12;5000;29:00.00;E;1;100;;;Unverified: 
+D;Roman;Jake;;M;;MSC;Morrisville State College;;13;5000;18:45.00;E;4;157;;;Unverified: 
+D;Turner;Caleb;;M;;MSC;Morrisville State College;;14;5000;21:30.00;E;4;158;;;Unverified: 
+D;Zeigler;Olivia;;F;;NWEE;Northwestern Elementary School;; 7;5000;21:47.00;E;4;107;;;Unverified: 
+D;Logan;Aria;;F;;NWEE;Northwestern Elementary School;; 4;5000;24:45.00;E;4;112;;;Unverified: 
+D;Lombardi;Jen;;F;;GPTC;Groton Project TC;;28;5000;25:00.00;E;4;159;;;Unverified: 
+D;Belcher;Nicole;;F;;GPTC;Groton Project TC;;38;5000;31:20.00;E;4;160;;;Unverified: 
+D;Baker;Lucas;;M;;UNA;Unattached;;16;5000;16:39.00;E;3;131;;;Unverified: 
+D;Varano;Jordan;;M;;UNA;Unattached;;38;5000;17:00.00;E;3;161;;;Unverified: 
+D;Collier;Christopher;;M;;UNA;Unattached;;45;5000;22:00.00;E;3;162;;;Unverified: 
+D;Clark;John;;M;;UNA;Unattached;;45;5000;22:32.00;E;3;152;;;Unverified: 
+D;More;Tracey;;M;;UNA;Unattached;;12;5000;24:30.00;E;3;151;;;Unverified: FLRC Februrary All-Comers Meet
+D;Strobel III;Charles W;;M;;UNA;Unattached;;12;5000;25:00.00;E;3;163;;;Unverified: 
+D;Smith;Jacob;;M;;UNA;Unattached;;19;5000;26:00.00;E;3;22;;;Unverified: 
+D;Golden;Ian;;M;;UNA;Unattached;;40;5000;17:00.00;E;2;164;;;Unverified: 
+D;Lohr;Ryan;;M;;UNA;Unattached;;18;5000;17:18.00;E;2;165;;;Unverified: 
+D;Frazier;Peter;;M;11/10/1978;UNA;Unattached;;38;5000;18:36.00;E;2;166;;;Unverified: 
+D;Despreaux;Zack;;M;12/06/1993;UNA;Unattached;;23;5000;19:00.00;E;2;75;;;Unverified: 
+D;Salisbury;Toby;;M;08/30/2001;UNA;Unattached;;16;5000;19:00.00;E;2;167;;;Unverified: 
+D;Lambert;Tristan;;M;06/23/1976;UNA;Unattached;;41;5000;19:30.00;E;2;168;;;Unverified: FLRC challenge
+D;Hartman;Liz ;;F;06/02/1982;UNA;Unattached;;35;5000;20:00.00;E;2;128;;;Unverified: 
+D;Brosnan;Kurt;;M;;UNA;Unattached;;12;5000;21:00;E;2;121;;;Unverified: 
+D;Wood;Jeffrey;;M;;UNA;Unattached;;56;HJ;3-5;E;2;130;;;Unverified: 
+D;Milano;Patrick;;M;12/18/1989;UNA;Unattached;;12;LJ;12-9;E;2;7;;;Unverified: 
+D;Weeks;Theodore;;M;;GPTC;Groton Project TC;; 1;LJ;8-0;E;1;5;;;Unverified: 
+D;Ruffer;Noah;;M;;UNA;Unattached;;12;LJ;19-7.5;E;3;16;;;Verified
+D;Eisner;Tess;;F;;UNA;Unattached;;12;LJ;16-11.5;E;3;169;;;Verified
+D;Gulati;Samir;;M;;UNA;Unattached;;11;LJ;16-0;E;3;132;;;Unverified: 
+D;Trimber;Connor;;M;;UNA;Unattached;;10;LJ;16-0;E;3;170;;;Unverified: 
+D;Oakes ;Samantha ;;F;;UNA;Unattached;;12;LJ;12-0;E;3;146;;;Unverified: 
+D;Smith;Jacob;;M;;UNA;Unattached;;19;LJ;0-00.00;E;3;22;;;Unverified: 
+D;Ruffer;Noah;;M;;UNA;Unattached;;12;HJ;6-1;E;3;16;;;Verified
+D;Gonzalez;Matthew;;M;;UNA;Unattached;;12;HJ;5-5;E;3;136;;;Unverified: 
+D;Trimber;Connor;;M;;UNA;Unattached;;10;HJ;5-3;E;3;170;;;Verified
+D;Clark;John;;M;;UNA;Unattached;;45;HJ;3-6;E;3;152;;;Unverified: 
+D;DeSantis;Conor;;M;01/20/2010;UNA;Unattached;; 7;HJ;3-0;E;3;21;;;Unverified: 
+D;DeSantis;Rowan;;F;12/12/2013;UNA;Unattached;; 3;HJ;3-0;E;3;24;;;Unverified: 
+D;Smith;Jacob;;M;;UNA;Unattached;;19;HJ;0-00.00;E;3;22;;;Unverified: 
+D;Hughes;Brady;;M;;CPPE;Corning;;12;HJ;6-0;E;4;82;;;Verified
+D;Johnston;Matti;;F;;CPPE;Corning;; 8;HJ;4-8;E;4;30;;;Unverified: Quinney
+D;Sgrecci;Max;;M;;ODES;Odessa-Montour;; 8;HJ;4-6;E;4;91;;;Unverified: 
+D;Beres;Bella;;F;08/24/2010;STSA;Southern Tier SOAR;; 7;HJ;3-9;E;4;88;;;Unverified: 
+D;White;Gavin;;M;;ITHY;Ithaca Youth Bureau;; 7;HJ;3-6;E;4;28;;;Unverified: 
+D;Feschotte;Maya;;F;;ITHY;Ithaca Youth Bureau;; 6;HJ;3-6;E;4;33;;;Unverified: 
+D;Doran;Molly;;F;01/24/2012;STSA;Southern Tier SOAR;; 5;HJ;3-3;E;4;93;;;Unverified: 
+D;Wukovitz;Charlie;;M;07/07/2011;STSA;Southern Tier SOAR;; 5;HJ;3-3;E;4;109;;;Unverified: 
+D;Rose;Taytum;;F;02/20/2014;STSA;Southern Tier SOAR;; 3;HJ;3-0;E;4;61;;;Unverified: 
+D;Miller;Violet;;F;12/27/2012;STSA;Southern Tier SOAR;; 5;HJ;3-0;E;4;59;;;Unverified: 
+D;McBean;Amor;;M;12/30/2012;GIAC;GIAC Navigators;;12;HJ;0-00.00;E;4;68;;;Unverified: 
+D;Mack;Augustine;;M;05/08/2014;GIAC;GIAC Navigators;;12;HJ;0-00.00;E;4;55;;;Unverified: 
+D;Butler;Zamara;;F;03/27/0015;GIAC;GIAC Navigators;;12;HJ;0-00.00;E;4;73;;;Unverified: 
+D;Ashton;Ysenia;;F;05/18/2014;GIAC;GIAC Navigators;;12;HJ;0-00.00;E;4;57;;;Unverified: 
+D;Spears;Raheem;;M;08/12/2012;GIAC;GIAC Navigators;;12;HJ;0-00.00;E;4;41;;;Unverified: 
+D;Awa;Asa;;M;07/30/2013;GIAC;GIAC Navigators;;12;HJ;0-00.00;E;4;29;;;Unverified: 
+D;Mugamb-Loanide;Yekaterina;;F;05/26/2015;GIAC;GIAC Navigators;;12;HJ;0-00.00;E;4;50;;;Unverified: 
+D;Baptist;Jerod;;M;10/12/2012;GIAC;GIAC Navigators;;12;HJ;0-00.00;E;4;37;;;Unverified: 
+D;Haynes;Somaya;;F;08/16/2012;GIAC;GIAC Navigators;;12;HJ;0-00.00;E;4;63;;;Unverified: 
+D;Baptist;Jerome;;M;10/12/2012;GIAC;GIAC Navigators;;12;HJ;0-00.00;E;4;34;;;Unverified: 
+D;Baptist;Joaquin;;M;09/09/2015;GIAC;GIAC Navigators;;12;HJ;0-00.00;E;4;52;;;Unverified: 
+D;Cummings;Zion;;M;01/20/2015;GIAC;GIAC Navigators;;12;HJ;0-00.00;E;4;60;;;Unverified: 
+D;Campbell;Xavier;;M;08/01/2013;GIAC;GIAC Navigators;;12;HJ;0-00.00;E;4;65;;;Unverified: 
+D;Campbell;Archibald;;M;08/29/2016;GIAC;GIAC Navigators;;12;HJ;0-00.00;E;4;70;;;Unverified: 
+D;Morrone;Amari;;F;02/22/2015;GIAC;GIAC Navigators;;12;HJ;0-00.00;E;4;49;;;Unverified: 
+D;Abdur-Razzaaq;Jamarea;;F;04/14/2015;GIAC;GIAC Navigators;;12;HJ;0-00.00;E;4;67;;;Unverified: 
+D;LeShore;Carter;;M;11/29/2012;GIAC;GIAC Navigators;;12;HJ;0-00.00;E;4;53;;;Unverified: 
+D;Lucena;Janaiyah;;F;07/17/2013;GIAC;GIAC Navigators;;12;HJ;0-00.00;E;4;46;;;Unverified: 
+D;Sierra;Ava;;F;07/06/2013;GIAC;GIAC Navigators;;12;HJ;0-00.00;E;4;38;;;Unverified: 
+D;Lucena;Joharra;;F;07/17/2013;GIAC;GIAC Navigators;;12;HJ;0-00.00;E;4;48;;;Unverified: 
+D;Stewart;Hayden;;F;01/10/2012;GIAC;GIAC Navigators;;12;HJ;0-00.00;E;4;42;;;Unverified: 
+D;Lucena;Johnny;;M;03/04/2014;GIAC;GIAC Navigators;;12;HJ;0-00.00;E;4;56;;;Unverified: 
+D;Abdur-Razzaaq;Jahiem;;M;12/14/2011;GIAC;GIAC Navigators;;12;HJ;0-00.00;E;4;66;;;Unverified: 
+D;Baptist;Jocelyn;;F;09/09/2015;GIAC;GIAC Navigators;;12;HJ;0-00.00;E;4;62;;;Unverified: 
+D;Zinger;Mo;;M;;ODES;Odessa-Montour;; 8;LJ;16-0;E;4;92;;;Unverified: 
+D;Campbell;Benjamin;;M;;ODES;Odessa-Montour;;12;LJ;16-0;E;4;103;;;Unverified: 
+D;Sgrecci;Max;;M;;ODES;Odessa-Montour;; 8;LJ;16-0;E;4;91;;;Unverified: 
+D;Wyre;Zach;;M;;ODES;Odessa-Montour;;12;LJ;16-0;E;4;105;;;Unverified: 
+D;Younkin;Lauren;;F;10/08/2010;STSA;Southern Tier SOAR;; 7;LJ;11-8;E;4;32;;;Unverified: 
+D;Harrington;Connor;;M;03/22/2011;STSA;Southern Tier SOAR;; 6;LJ;11-6;E;4;31;;;Unverified: 
+D;Wagner;Abigail;;F;01/01/2011;STSA;Southern Tier SOAR;; 6;LJ;11-0;E;4;89;;;Unverified: 
+D;Feschotte;Maya;;F;;ITHY;Ithaca Youth Bureau;; 6;LJ;11-0;E;4;33;;;Unverified: 
+D;Hazlett;Ben;;M;09/03/2010;STSA;Southern Tier SOAR;; 7;LJ;11-0;E;4;36;;;Unverified: 
+D;Russo;Logan;;M;10/27/2010;STSA;Southern Tier SOAR;; 7;LJ;10-7;E;4;26;;;Unverified: 
+D;Justice;Anthony;;M;;GPTC;Groton Project TC;; 4;LJ;10-0;E;4;94;;;Unverified: 
+D;Plumeau;Ryan;;M;;GPTC;Groton Project TC;; 1;LJ;10-0;E;4;96;;;Unverified: 
+D;Swarthout;Karina;;F;04/17/2010;STSA;Southern Tier SOAR;; 7;LJ;9-5;E;4;40;;;Unverified: 
+D;Worley;Colton;;M;01/04/2013;STSA;Southern Tier SOAR;; 4;LJ;9-0;E;4;44;;;Unverified: 
+D;Weeks;Madelyn;;F;;GPTC;Groton Project TC;; 6;LJ;9-0;E;4;39;;;Unverified: 
+D;Mosher;Henry;;M;03/12/2013;STSA;Southern Tier SOAR;; 4;LJ;8-0;E;4;27;;;Unverified: 
+D;Smith;Reis;;F;05/08/2013;STSA;Southern Tier SOAR;; 4;LJ;7-6;E;4;51;;;Unverified: 
+D;Stump;Gary;;M;01/20/2011;STSA;Southern Tier SOAR;; 6;LJ;6-1;E;4;47;;;Unverified: 
+D;Ruza;Sylas;;M;07/30/2011;STSA;Southern Tier SOAR;; 5;LJ;6-0;E;4;35;;;Unverified: 
+D;White;Gavin;;M;;ITHY;Ithaca Youth Bureau;; 7;LJ;6-0;E;4;28;;;Unverified: 
+D;Nichols;Elias;;M;01/13/2015;STSA;Southern Tier SOAR;; 2;LJ;5-6;E;4;54;;;Unverified: 
+D;Russo;Elliana;;F;06/06/2015;STSA;Southern Tier SOAR;; 2;LJ;4-0;E;4;58;;;Unverified: 
+D;Melnychuk;Olivia;;F;09/16/2016;STSA;Southern Tier SOAR;; 1;LJ;4-0;E;4;72;;;Unverified: 
+D;Mahoney;Jayvyn;;M;01/07/2016;STSA;Southern Tier SOAR;; 2;LJ;3-8;E;4;71;;;Unverified: 
+D;Awa;Asa;;M;07/30/2013;GIAC;GIAC Navigators;;12;LJ;0-00.00;E;4;29;;;Unverified: 
+D;Spears;Raheem;;M;08/12/2012;GIAC;GIAC Navigators;;12;LJ;0-00.00;E;4;41;;;Unverified: 
+D;Stewart;Hayden;;F;01/10/2012;GIAC;GIAC Navigators;;12;LJ;0-00.00;E;4;42;;;Unverified: 
+D;Baptist;Jerome;;M;10/12/2012;GIAC;GIAC Navigators;;12;LJ;0-00.00;E;4;34;;;Unverified: 
+D;Campbell;Xavier;;M;08/01/2013;GIAC;GIAC Navigators;;12;LJ;0-00.00;E;4;65;;;Unverified: 
+D;baptist;journey;;F;03/13/2018;GIAC;GIAC Navigators;;12;LJ;0-00.00;E;4;97;;;Unverified: 
+D;Baptist;Joaquin;;M;09/09/2015;GIAC;GIAC Navigators;;12;LJ;0-00.00;E;4;52;;;Unverified: 
+D;Lucena;Janaiyah;;F;07/17/2013;GIAC;GIAC Navigators;;12;LJ;0-00.00;E;4;46;;;Unverified: 
+D;Haynes;Somaya;;F;08/16/2012;GIAC;GIAC Navigators;;12;LJ;0-00.00;E;4;63;;;Unverified: 
+D;Lucena;Johnny;;M;03/04/2014;GIAC;GIAC Navigators;;12;LJ;0-00.00;E;4;56;;;Unverified: 
+D;Lucena;Joharra;;F;07/17/2013;GIAC;GIAC Navigators;;12;LJ;0-00.00;E;4;48;;;Unverified: 
+D;Mugamb-Loanide;Yekaterina;;F;05/26/2015;GIAC;GIAC Navigators;;12;LJ;0-00.00;E;4;50;;;Unverified: 
+D;Mack;Augustine;;M;05/08/2014;GIAC;GIAC Navigators;;12;LJ;0-00.00;E;4;55;;;Unverified: 
+D;Morrone;Amari;;F;02/22/2015;GIAC;GIAC Navigators;;12;LJ;0-00.00;E;4;49;;;Unverified: 
+D;Campbell;Archibald;;M;08/29/2016;GIAC;GIAC Navigators;;12;LJ;0-00.00;E;4;70;;;Unverified: 
+D;Cummings;Zion;;M;01/20/2015;GIAC;GIAC Navigators;;12;LJ;0-00.00;E;4;60;;;Unverified: 
+D;Butler;Zamara;;F;03/27/0015;GIAC;GIAC Navigators;;12;LJ;0-00.00;E;4;73;;;Unverified: 
+D;Ashton;Ysenia;;F;05/18/2014;GIAC;GIAC Navigators;;12;LJ;0-00.00;E;4;57;;;Unverified: 
+D;Baptist;Jocelyn;;F;09/09/2015;GIAC;GIAC Navigators;;12;LJ;0-00.00;E;4;62;;;Unverified: 
+D;Sierra;Ava;;F;07/06/2013;GIAC;GIAC Navigators;;12;LJ;0-00.00;E;4;38;;;Unverified: 
+D;Baptist;Jerod;;M;10/12/2012;GIAC;GIAC Navigators;;12;LJ;0-00.00;E;4;37;;;Unverified: 
+D;Abdur-Razzaaq;Jamarea;;F;04/14/2015;GIAC;GIAC Navigators;;12;LJ;0-00.00;E;4;67;;;Unverified: 
+D;McBean;Amor;;M;12/30/2012;GIAC;GIAC Navigators;;12;LJ;0-00.00;E;4;68;;;Unverified: 
+D;Abdur-Razzaaq;Jahiem;;M;12/14/2011;GIAC;GIAC Navigators;;12;LJ;0-00.00;E;4;66;;;Unverified: 
