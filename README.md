@@ -10,11 +10,19 @@ python RaceResultsManipulation.py --infile WEBSCORER_EXPORT --outfile OUTPUT_FIL
 This script requires Python 3.8 or later. If you need to install Python, use Miniconda.
 
 ## WEBSCORER FORMAT RULES:
-1. In Webscorer, event titles must be of the form
+1. Required keys are:
+    - `Last name`
+    - `First name`
+    - `Gender`—only `Male` and `Female` are options 😠
+    - `Team Name`—defaults to `Unattached`
+    - `Team Code`—at most four characters, defaults to `UNA`
+    - `Age`
+    - `Email`
+2. In Webscorer, event titles must be of the form
     `event_time/distance_metric/english_EVENTNAME`, eg. `event_time_metric_100m` or
     `event_time_english_1MILE` or `event_distance_english_LJ`.
-2. EVENTNAME must be a valid event in HyTek. If this isn't the case, the HyTek
+3. `EVENTNAME` must be a valid event in HyTek. If this isn't the case, the HyTek
     import will throw some kind of error.
-3. Event seed times must of the form `MM:SS`. Any number of characters before the first
+4. Event seed times must of the form `MM:SS`. Any number of characters before the first
     colon are interpreted as a number of minutes, and up to the next two characters
     after the first colon are interpreted as a number of seconds.
