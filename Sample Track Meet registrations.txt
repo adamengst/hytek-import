@@ -1,11 +1,6 @@
-﻿Name	First name	Last name	Age	Gender	Email	Registration time	60m	200m	1-mile	3000m	LongJump	HighJump	Notes	Emergency contact name	Emergency phone #
-
-Sally Schmoe	Sally	Schmoe	16	Female	ace@tidbits.com	Aug 30, 2023 at 1:26 PM				9:55				Adam Engst	607-275-9557
-
-Joe Schmoe	Joe	Schmoe	12	Male	ace@tidbits.com	Aug 30, 2023 at 1:25 PM	0:13	0:59				3-06		Adam Engst	607-275-9557
-
-Tristan Engst	Tristan	Engst	25	Male	tristan@tidbits.com	Aug 30, 2023 at 1:24 PM	0:07	0:31	6:08	11:12	12-03	4-02		Adam Engst	6072759557
-
-Tonya Engst	Tonya	Engst	56	Female	tonya@tidbits.com	Aug 30, 2023 at 1:22 PM	0:10	0:42	7:56	15:23				Adam Engst	6072759557
-
-Adam Engst	Adam	Engst	56	Male	ace@tidbits.com	Aug 30, 2023 at 1:21 PM	0:09	0:34	5:08	10:32	7-03	4-01	Please don't put me in the fast heat of the mile!	Tonya Engst	6072759557
+﻿Name	First name	Last name	Age	Gender	Email	Registration time	Total fee	Category	Fee for Category	Team	event_time_metric_60	event_time_metric_200	event_english_1MILE	event_time_metric_3000	event_distance_english_LJ	event_distsance_metric_HJ	Notes	Emergency contact name	Emergency phone #
+Marvin Gardens	Marvin	Gardens	19	Male	ace@tidbits.com	Sep 2, 2023 at 9:19 PM	0	Financial Aid ($0)		Groton Project TC		0:26			20-07	5-09			
+Sally Schmoe	Sally	Schmoe	56	Female	president@fingerlakesrunners.org	Sep 2, 2023 at 9:17 PM	0	Financial Aid ($0)		Cornell Running Club				9:56				Tonya Engst	607-275-8383
+Tristan Engst	Tristan	Engst	25	Male	tristan@tidbits.com	Sep 2, 2023 at 9:15 PM	0	Financial Aid ($0)		Ithaca High School			5:55					Adam Engst	607-272-9557
+Tonya Engst	Tonya	Engst	56	Female	tonya@tidbits.com	Sep 2, 2023 at 9:13 PM	0	FLRC Member ($5)	5.00	Unattached	0:12	0:43	7:42					Adam Engst	6072759557
+Adam Engst	Adam	Engst	56	Male	ace@tidbits.com	Sep 2, 2023 at 9:11 PM	0	Non-FLRC Member ($10)	10.00	Unattached	0:09	:32	5:09	10:23	9-03	4-10	Guessing!	Tonya Engst	6072759557
