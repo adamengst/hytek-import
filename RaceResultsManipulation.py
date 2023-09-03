@@ -3,58 +3,73 @@
 import argparse
 import csv
 
-def to_individual_record(d):
-    result = dict()
-    
-    # Apply value character limits
-    result = result
+def flatten_list(l):
+    """Flattens list-of-lists [l] to a list."""
+    result = []
+    for l_ in l:
+        result += l_
     return result
 
+def get_gender(d):
+    if d["Gender"] == "Female":
+        return "F"
+    elif d["Gender"] == "Male":
+        return "M"
+    else:
+        return "M" # Change this when possible
 
-def to_information_record(d):
+def event_to_measure(event):
+    if "metric" in event:
+        return "M"
+    elif "english" in event:
+        return "E"
+    else:
+        raise ValueError("Event names must contain either 'metric' or 'english' to indicate their measure")
+
+def get_mark(d, event):
+    if "time" in event:
+        return d[event]
+    elif "distance" in event:
+        return d[event]
+    else:
+        print(event)
+        raise ValueError("Event names must contain either 'time' or 'distance' to indicate what kind of mark they should have")
+
+def event_to_code(event):
+    underscore_idxs = [idx for idx,c in enumerate(event) if c == "_"]
+    third_underscore_idx = underscore_idxs[2]
+    return event[third_underscore_idx+1:]
+
+def to_individual_record(d, event_name):
     result = dict(
-        type="I",
+        type="D",
         last_name=d["Last name"],
         first_name=d["First name"],
         initial="",
-        gender="Female" if d["Gender"] == "Female" else "M",
+        gender=get_gender(d),
         birth_date="",
-        team_code=d["Team Name"],
-        team_name=d["Team Code"],
-        age="",
+        team_code=d["team_name"],
+        team_name=d["team_code"] if "team_code" in d else "UNA",
+        age=d["Age"],
         school_year="",
-        address_line_1="",
-        address_line_2="",
-        city="",
-        state="",
-        zip="",
-        country="",
-        citizen_country="",
-        home_phone="",
-        office_phone="",
-        fax_number="",
-        shirt_size="",
-        registration_number="",
+        event_code=event_to_code(event_name),
+        entry_mark=get_mark(d, event_name),
+        event_measure=event_to_measure(event_name),
+        event_division="",
         competitor_number="",
-        email="",
-        disabled_classification=""
+        finish_place="",
+        declaration_status="",
+        entry_note="",
+        not_in_use="",
+        alternate="",
     )
+
     # Apply value character limits
     result = result
     return result
 
 def to_hytek(result):
-    information_record = to_information_record(result)
-
-    for k,v in result.items():
-        if k.startswith("event-"):
-            # get individual record
-        else:
-            # pass
-    
-    return [
-
-    ]
+    return [to_individual_record(result, k) for k in result.keys() if k.startswith("event_")]    
 
 if __name__ == "__main__":
     P = argparse.ArgumentParser()
@@ -71,14 +86,18 @@ if __name__ == "__main__":
         results = [row for row in reader]
 
     # Manipulate [results] into a form we can easily write to the HyTek file.
-    hytek_results = []
-    for result in results:
-        hytek_results += to_hytek(result)
+    hytek_results = [[to_individual_record(r, k) for k in r.keys() if k.startswith("event_")] for r in results]
+    hytek_results = flatten_list(hytek_results)
 
+    print(hytek_results)
 
-    
+    hytek_results = [[v for v in h.values()] for h in hytek_results]
+
     outfile = f"{args.infile}".replace(".txt", "hytek.txt") if args.outfile is None else args.outfile
-    with open(outfile, "w+") as f:
+    with open(outfile, "w+", newline="\r\n") as f:
+        writer = csv.writer(f, delimiter=";")
+        for row in hytek_results:
+            writer.writerow(row)
 
 
 
