@@ -1,0 +1,6 @@
+﻿Name	First name	Last name	Age	Gender	Email	Registration time	Total fee	Category	Fee for Category	team_name	event_time_metric_60	event_time_metric_200	event_english_1MILE	event_time_metric_3000	event_distance_english_LJ	event_distsance_metric_HJ	Notes	Emergency contact name	Emergency phone #
+Marvin Gardens	Marvin	Gardens	19	Male	ace@tidbits.com	Sep 2, 2023 at 9:19 PM	0	Financial Aid ($0)		Groton Project TC (GROT)		0:26			20-07	5-09			
+Sally Schmoe	Sally	Schmoe	56	Female	president@fingerlakesrunners.org	Sep 2, 2023 at 9:17 PM	0	Financial Aid ($0)		Cornell Running Club (CRC)				9:56				Tonya Engst	607-275-8383
+Tristan Engst	Tristan	Engst	25	Male	tristan@tidbits.com	Sep 2, 2023 at 9:15 PM	0	Financial Aid ($0)		Ithaca High School (IHS)			5:55					Adam Engst	607-272-9557
+Tonya Engst	Tonya	Engst	56	Female	tonya@tidbits.com	Sep 2, 2023 at 9:13 PM	0	FLRC Member ($5)	5.00	Unattached (UNA)	0:12	0:43	7:42					Adam Engst	6072759557
+Adam Engst	Adam	Engst	56	Male	ace@tidbits.com	Sep 2, 2023 at 9:11 PM	0	Non-FLRC Member ($10)	10.00	Unattached (UNA)	0:09	:32	5:09	10:23	9-03	4-10	Guessing!	Tonya Engst	6072759557
