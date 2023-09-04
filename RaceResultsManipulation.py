@@ -3,6 +3,10 @@
 import argparse
 import csv
 
+def get_team_code(d):
+    first_parens_idx = d["team_name"].index("(")
+    last_parens_idx = d["team_name"].index(")")
+    return team_name[first_parens_idx+1:last_parens_idx]
 
 def flatten_list(l):
     """Flattens list-of-lists [l] to a list."""
@@ -49,7 +53,7 @@ def to_individual_record(d, event_name):
         initial="",
         gender=get_gender(d),
         birth_date="",
-        team_code=d["team_code"] if "team_code" in d else "UNA",
+        team_code=get_team_code(d),
         team_name=d["team_name"],
         age=d["Age"],
         school_year="",
