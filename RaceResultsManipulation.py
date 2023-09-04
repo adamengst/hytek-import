@@ -45,6 +45,19 @@ def event_to_code(event):
     third_underscore_idx = underscore_idxs[2]
     return event[third_underscore_idx+1:]
 
+def to_information_record(d):
+    result = dict(
+        type="I",
+        last_name=d["Last name"],
+        first_name=d["First name"],
+        initial="",
+        gender=get_gender(d),
+        birth_date="",
+        team_code=get_team_code(d),
+        team_name=d["team_name"],
+        age=d["Age"],
+    )
+
 def to_individual_record(d, event_name):
     result = dict(
         type="D",
@@ -91,8 +104,9 @@ if __name__ == "__main__":
         results = [row for row in reader]
 
     # Manipulate [results] into a form we can easily write to the HyTek file.
-    hytek_results = [[to_individual_record(r, k) for k in r.keys() if k.startswith("event_")] for r in results]
+    hytek_results = [[to_individual_record(r, k) for k,v in r.items() if k.startswith("event_") and not v == ""] for r in results]
     hytek_results = flatten_list(hytek_results)
+    hytek_results += [to_information_record(r) for r in results]
 
     print(hytek_results)
 
