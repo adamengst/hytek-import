@@ -3,6 +3,7 @@
 import argparse
 import csv
 
+
 def flatten_list(l):
     """Flattens list-of-lists [l] to a list."""
     result = []
