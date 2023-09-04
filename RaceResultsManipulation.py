@@ -6,7 +6,7 @@ import csv
 def get_team_code(d):
     first_parens_idx = d["team_name"].index("(")
     last_parens_idx = d["team_name"].index(")")
-    return team_name[first_parens_idx+1:last_parens_idx]
+    return d["team_name"][first_parens_idx+1:last_parens_idx]
 
 def flatten_list(l):
     """Flattens list-of-lists [l] to a list."""
