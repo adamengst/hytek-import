@@ -1,0 +1,12 @@
+D;Contrary;Mary;;F;;SOAR;SOAR Running Club (SOAR);15;;60;0:9;M;;;;;;;
+D;Contrary;Mary;;F;;SOAR;SOAR Running Club (SOAR);15;;200;31;M;;;;;;;
+D;Contrary;Mary;;F;;SOAR;SOAR Running Club (SOAR);15;;1600;5:33;M;;;;;;;
+D;Contrary;Mary;;F;;SOAR;SOAR Running Club (SOAR);15;;JT;45-01;E;;;;;;;
+D;Schmoe;Joe;;M;;SOAR;SOAR Running Club (SOAR);17;;200;0:31;M;;;;;;;
+D;Schmoe;Joe;;M;;SOAR;SOAR Running Club (SOAR);17;;HJ;5-03;M;;;;;;;
+D;Nier;Mike;;M;;UNA;Unattached (UNA);59;;1MILE;4:59.9;E;;;;;;;
+D;President;Flrc;;M;;UNA;Unattached (UNA);56;;1MILE;5:21;E;;;;;;;
+I;Contrary;Mary;;F;;SOAR;SOAR Running Club (SOAR);15
+I;Schmoe;Joe;;M;;SOAR;SOAR Running Club (SOAR);17
+I;Nier;Mike;;M;;UNA;Unattached (UNA);59
+I;President;Flrc;;M;;UNA;Unattached (UNA);56

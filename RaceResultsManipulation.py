@@ -57,6 +57,7 @@ def to_information_record(d):
         team_name=d["team_name"],
         age=d["Age"],
     )
+    return result
 
 def to_individual_record(d, event_name):
     result = dict(
@@ -112,7 +113,7 @@ if __name__ == "__main__":
 
     hytek_results = [[v for v in h.values()] for h in hytek_results]
 
-    outfile = f"{args.infile}".replace(".txt", "hytek.txt") if args.outfile is None else args.outfile
+    outfile = f"{args.infile}".replace(".txt", "_hytek.txt") if args.outfile is None else args.outfile
     with open(outfile, "w+", newline="\r\n") as f:
         writer = csv.writer(f, delimiter=";")
         for row in hytek_results:
