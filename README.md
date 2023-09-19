@@ -3,8 +3,9 @@ Contains a script that can import Webscorer race seed results to a format parsab
 
 ## Usage
 ```
-python RaceResultsManipulation.py --infile WEBSCORER_EXPORT --outfile OUTPUT_FILE
+python WebscorerToHytek.py --webscorer WEBSCORER_EXPORT --hytek OUTPUT_FILE
 ```
+If `--hytek` isn't specified, the output will be `WEBSCORER_EXPORT_htyek.txt`.
 
 ## Python
 This script requires Python 3.8 or later. If you need to install Python, use Miniconda.
