@@ -100,12 +100,12 @@ if __name__ == "__main__":
     P.add_argument("--webscorer", required=True,
         help="Webscorer export to be converted")
     P.add_argument("--hytek",
-        help="File to write output to. Defaults to INFILE_hytek.txt")
+        help="File to write output to. Defaults to webscorer_hytek.txt")
     args = P.parse_args()
 
     # Creates a [results], a list where each entry is a dictionary whose keys are the
     # column names in the WebScorer file.
-    with open(args.infile, "r+", encoding="utf-8-sig") as f:
+    with open(args.webscorer, "r+", encoding="utf-8-sig") as f:
         reader = csv.DictReader(f, delimiter="\t")
         results = [row for row in reader]
 
@@ -115,8 +115,8 @@ if __name__ == "__main__":
     hytek_results += [to_information_record(r) for r in results]
     hytek_results = [[v for v in h.values()] for h in hytek_results]
 
-    outfile = f"{args.infile}".replace(".txt", "_hytek.txt") if args.outfile is None else args.outfile
-    with open(outfile, "w+", newline="\r\n") as f:
+    hytek = f"{args.webscorer}".replace(".txt", "_hytek.txt") if args.hytek is None else args.hytek
+    with open(hytek, "w+", newline="\r\n") as f:
         writer = csv.writer(f, delimiter=";")
         for row in hytek_results:
             writer.writerow(row)
