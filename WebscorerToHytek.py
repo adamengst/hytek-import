@@ -97,10 +97,10 @@ def to_hytek(result):
 
 if __name__ == "__main__":
     P = argparse.ArgumentParser()
-    P.add_argument("--infile", required=True,
+    P.add_argument("--webscorer", required=True,
         help="Webscorer export to be converted")
-    P.add_argument("--outfile",
-        help="File to write output to. Defaults to INFILE-hytek.txt")
+    P.add_argument("--hytek",
+        help="File to write output to. Defaults to INFILE_hytek.txt")
     args = P.parse_args()
 
     # Creates a [results], a list where each entry is a dictionary whose keys are the
