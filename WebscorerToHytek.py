@@ -88,6 +88,11 @@ def to_individual_record(d, event_name):
     return result
 
 def to_hytek(result):
+    """Returns
+    
+    Args:
+    result
+    """
     return [to_individual_record(result, k) for k in result.keys() if k.startswith("event_")]    
 
 if __name__ == "__main__":
@@ -108,9 +113,6 @@ if __name__ == "__main__":
     hytek_results = [[to_individual_record(r, k) for k,v in r.items() if k.startswith("event_") and not v == ""] for r in results]
     hytek_results = flatten_list(hytek_results)
     hytek_results += [to_information_record(r) for r in results]
-
-    print(hytek_results)
-
     hytek_results = [[v for v in h.values()] for h in hytek_results]
 
     outfile = f"{args.infile}".replace(".txt", "_hytek.txt") if args.outfile is None else args.outfile
