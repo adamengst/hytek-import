@@ -23,6 +23,6 @@ This script requires Python 3.8 or later. If you need to install Python, use Min
     `event_time_english_1MILE` or `event_distance_english_LJ`.
 3. `EVENTNAME` must be a valid event in HyTek. If this isn't the case, the HyTek
     import will throw some kind of error.
-4. Event seed times must of the form `MM:SS`. Any number of characters before the first
+4. ~Event seed times must of the form `MM:SS`. Any number of characters before the first
     colon are interpreted as a number of minutes, and up to the next two characters
-    after the first colon are interpreted as a number of seconds.
+    after the first colon are interpreted as a number of seconds.~
