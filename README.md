@@ -31,3 +31,4 @@ This script requires Python 3.8 or later. If you need to install Python, use Min
 ## TODOS
 - Add value character limits
 - Add documentation
+- Filter team code from team name. Assume space parenthetical format.

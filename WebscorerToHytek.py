@@ -3,10 +3,22 @@
 import argparse
 import csv
 
-def get_team_code(d):
-    first_parens_idx = d["team_name"].index("(")
-    last_parens_idx = d["team_name"].index(")")
-    return d["team_name"][first_parens_idx+1:last_parens_idx]
+def get_team_code(team_name):
+    """Returns the team code from [team_name]."""
+    try:
+        first_parens_idx = team_name.index("(")
+        last_parens_idx = team_name.index(")")
+        return team_name[first_parens_idx+1:last_parens_idx]
+    except:
+        return None
+
+def remove_team_code_from_team_name(team_name):
+    """Returns team name [team_name] without the team code parenthetical."""
+    team_code = get_team_code(team_name)
+    if team_code is None:
+        return team_name
+    else:
+        return team_name.replace(f"({get_team_code(team_name)})", "").strip()
 
 def flatten_list(l):
     """Flattens list-of-lists [l] to a list."""
@@ -15,15 +27,17 @@ def flatten_list(l):
         result += l_
     return result
 
-def get_gender(d):
-    if d["Gender"] == "Female":
+def get_gender_abbreviation(gender):
+    """Returns the gender abbreviation for [gender]."""
+    if gender == "Female":
         return "F"
-    elif d["Gender"] == "Male":
+    elif gender == "Male":
         return "M"
     else:
         return "M" # Change this when possible
 
 def event_to_measure(event):
+    """Returns the gender abbreviation for [gender]."""
     if "metric" in event:
         return "M"
     elif "english" in event:
@@ -51,10 +65,10 @@ def to_information_record(d):
         last_name=d["Last name"],
         first_name=d["First name"],
         initial="",
-        gender=get_gender(d),
+        gender=get_gender_abbreviation(d["Gender"]),
         birth_date="",
-        team_code=get_team_code(d),
-        team_name=d["team_name"],
+        team_code=get_team_code(d["team_name"]),
+        team_name=remove_team_code_from_team_name(d["team_name"]),
         age=d["Age"],
     )
     return result
@@ -65,10 +79,10 @@ def to_individual_record(d, event_name):
         last_name=d["Last name"],
         first_name=d["First name"],
         initial="",
-        gender=get_gender(d),
+        gender=get_gender_abbreviation(d["Gender"]),
         birth_date="",
-        team_code=get_team_code(d),
-        team_name=d["team_name"],
+        team_code=get_team_code(d["team_name"]),
+        team_name=remove_team_code_from_team_name(d["team_name"]),
         age=d["Age"],
         school_year="",
         event_code=event_to_code(event_name),
@@ -86,14 +100,6 @@ def to_individual_record(d, event_name):
     # Apply value character limits
     result = result
     return result
-
-def to_hytek(result):
-    """Returns
-    
-    Args:
-    result
-    """
-    return [to_individual_record(result, k) for k in result.keys() if k.startswith("event_")]    
 
 if __name__ == "__main__":
     P = argparse.ArgumentParser()
