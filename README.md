@@ -1,8 +1,8 @@
 # Webscorer to HyTek Importer
-Contains a script that can import Webscorer race seed results to a format parsable by HyTek. The script does no error checking, and its output should be transparent to the input. Any errors should come from HyTek. [GitHub link](https://github.com/adamengst/hytek-import).
+Contains a script that can import and convert Webscorer race seed results to a format parsable by HyTek Meet Manager. The script does no error checking, and its output should be transparent to the input. All errors should be reported by HyTek Meet Manager on import and will not be caught or mitigated by this script. [GitHub link](https://github.com/adamengst/hytek-import)
 
 ## Online Usage (no git or Python)
-1. Create a [Replit](https://replit.com/) account and get an invite from Adam.
+1. Create a [Replit](https://replit.com/) account and get an invite from Adam Engst.
 2. Export registrations as a tab-delimited text file from Webscorer and upload to Replit.
 3. Open `WebscorerToHytek.py` in the left pane, and enter the following as the **Run Command**: 
    ```
@@ -16,7 +16,7 @@ git clone https://github.com/adamengst/hytek-import; cd hytek-import
 python WebscorerToHytek.py --webscorer WEBSCORER_EXPORT --hytek OUTPUT_FILE
 ```
 
-## WEBSCORER FORMAT RULES:
+## Webscorer Format Rules
 1. Required keys are:
     - `Last name`
     - `First name`
