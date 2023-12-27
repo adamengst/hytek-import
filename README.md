@@ -29,6 +29,6 @@ This script requires Python 3.8 or later. If you need to install Python, use Min
     after the first colon are interpreted as a number of seconds.~
 
 ## TODOS
-- Add value character limits
-- Add documentation
-- Filter team code from team name. Assume space parenthetical format.
+- Add value character limits [confirm not needed]
+- Add documentation [is it done]
+- Filter team code from team name. Assume space parenthetical format [is it done]
