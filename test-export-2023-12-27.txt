@@ -1,0 +1,95 @@
+D;Kania;Dave;;M;;ICRC;Ithaca College Running Club;43;;60;0:12;M;;;;;;;
+D;Kania;Dave;;M;;ICRC;Ithaca College Running Club;43;;400;68.0;M;;;;;;;
+D;Kania;Dave;;M;;ICRC;Ithaca College Running Club;43;;800;2:20;M;;;;;;;
+D;Kania;Dave;;M;;ICRC;Ithaca College Running Club;43;;1MILE;5:30;E;;;;;;;
+D;Kania;Dave;;M;;ICRC;Ithaca College Running Club;43;;LJ;15.0;E;;;;;;;
+D;Kania;Dave;;M;;ICRC;Ithaca College Running Club;43;;DT;150;E;;;;;;;
+D;Lagat;Bernard;;M;;UNA;Unattached;38;;1MILE;4:01;E;;;;;;;
+D;Schmerken;Gurgle;;M;;UNA;Unattached;24;;200;0:45;M;;;;;;;
+D;Schmerken;Gurgle;;M;;UNA;Unattached;24;;SP;34-09;E;;;;;;;
+D;Fay;Charlie;;M;;IHS;Ithaca High School;70;;400;0:51;M;;;;;;;
+D;Fay;Charlie;;M;;IHS;Ithaca High School;70;;800;3:22;M;;;;;;;
+D;Fay;Charlie;;M;;IHS;Ithaca High School;70;;1600;6:32;M;;;;;;;
+D;Fay;Charlie;;M;;IHS;Ithaca High School;70;;1MILE;6:45;E;;;;;;;
+D;Van Loon;Gerrit;;M;;UNA;Unattached;62;;200;:35;M;;;;;;;
+D;Van Loon;Gerrit;;M;;UNA;Unattached;62;;400;1:20;M;;;;;;;
+D;Van Loon;Gerrit;;M;;UNA;Unattached;62;;1MILE;6:30;E;;;;;;;
+D;Nolan;Joseph;;M;;UNA;Unattached;58;;1MILE;9:00;E;;;;;;;
+D;Talda;Robert;;M;;UNA;Unattached;63;;60;0:15;M;;;;;;;
+D;Talda;Robert;;M;;UNA;Unattached;63;;100;0:25;M;;;;;;;
+D;Talda;Robert;;M;;UNA;Unattached;63;;200;0:40;M;;;;;;;
+D;Talda;Robert;;M;;UNA;Unattached;63;;400;1:52;M;;;;;;;
+D;Talda;Robert;;M;;UNA;Unattached;63;;800;2:55;M;;;;;;;
+D;Talda;Robert;;M;;UNA;Unattached;63;;1600;8:00;M;;;;;;;
+D;Talda;Robert;;M;;UNA;Unattached;63;;1MILE;8:05;E;;;;;;;
+D;Talda;Robert;;M;;UNA;Unattached;63;;3000;19:00;M;;;;;;;
+D;Talda;Robert;;M;;UNA;Unattached;63;;5000;30:00;M;;;;;;;
+D;Talda;Robert;;M;;UNA;Unattached;63;;LJ;4-00;E;;;;;;;
+D;Talda;Robert;;M;;UNA;Unattached;63;;HJ;3-00;M;;;;;;;
+D;Talda;Robert;;M;;UNA;Unattached;63;;TJ;20-00;E;;;;;;;
+D;Talda;Robert;;M;;UNA;Unattached;63;;DT;50-00;E;;;;;;;
+D;Talda;Robert;;M;;UNA;Unattached;63;;SP;5-0-;E;;;;;;;
+D;Talda;Robert;;M;;UNA;Unattached;63;;JT;15-00;E;;;;;;;
+D;Lockett;Alan;;M;;UNA;Unattached;16;;60;1;M;;;;;;;
+D;Gregorich;Sandy;;F;;CRC;Cornell Running Club;61;;800;3:25;M;;;;;;;
+D;Gregorich;Sandy;;F;;CRC;Cornell Running Club;61;;1600;6:30;M;;;;;;;
+D;Barclay;Julie;;F;;GROT;Groton Project TC;50;;1MILE;6:40;E;;;;;;;
+D;Barclay;Julie;;F;;GROT;Groton Project TC;50;;5000;21:30;M;;;;;;;
+D;Skilton;Alfie Apples;;M;;UNA;Unattached;10;;800;2:59;M;;;;;;;
+D;Skilton;Amalia;;F;;UNA;Unattached;32;;1MILE;6:51;E;;;;;;;
+D;Eggleston;Keith;;M;;GROT;Groton Project TC;64;;1MILE;04:42;E;;;;;;;
+D;Eggleston;Keith;;M;;GROT;Groton Project TC;64;;LJ;17-13;E;;;;;;;
+D;Wagner;Abby;;F;;SOAR;SOAR Running Club;12;;400;1:09;M;;;;;;;
+D;Wagner;Abby;;F;;SOAR;SOAR Running Club;12;;800;2:48;M;;;;;;;
+D;Milano;Patrick;;M;;UNA;Unattached;33;;100;0:13;M;;;;;;;
+D;Milano;Patrick;;M;;UNA;Unattached;33;;800;2:09;M;;;;;;;
+D;Milano;Patrick;;M;;UNA;Unattached;33;;LJ;13-09;E;;;;;;;
+D;Clemons;Damian;;M;;UNA;Unattached;49;;200;0:20;M;;;;;;;
+D;Clemons;Damian;;M;;UNA;Unattached;49;;1MILE;10:00;E;;;;;;;
+D;Clemons;Damian;;M;;UNA;Unattached;49;;5000;45:00;M;;;;;;;
+D;Engst;Tonya;;F;;UNA;Unattached;55;;60;0:15;M;;;;;;;
+D;Engst;Tonya;;F;;UNA;Unattached;55;;100;0:30;M;;;;;;;
+D;Engst;Tonya;;F;;UNA;Unattached;55;;200;0:55;M;;;;;;;
+D;Engst;Tonya;;F;;UNA;Unattached;55;;400;1:55;M;;;;;;;
+D;Engst;Tonya;;F;;UNA;Unattached;55;;800;3:25;M;;;;;;;
+D;Engst;Tonya;;F;;UNA;Unattached;55;;1600;7:45;M;;;;;;;
+D;Engst;Tonya;;F;;UNA;Unattached;55;;1MILE;7:47;E;;;;;;;
+D;Engst;Tonya;;F;;UNA;Unattached;55;;LJ;5-00;E;;;;;;;
+D;Engst;Tonya;;F;;UNA;Unattached;55;;HJ;3-02;M;;;;;;;
+D;Engst;Tonya;;F;;UNA;Unattached;55;;TJ;11-00;E;;;;;;;
+D;Engst;Tonya;;F;;UNA;Unattached;55;;DT;50-00;E;;;;;;;
+D;Bernstein;Richard;;M;;UNA;Unattached;71;;800;1:56;M;;;;;;;
+D;Franck;Carl;;M;;UNA;Unattached;71;;1MILE;6:30;E;;;;;;;
+D;Lovenheim;Rebecca;;F;;UNA;Unattached;42;;800;3:00;M;;;;;;;
+D;Contrary;Mary;;F;;SOAR;SOAR Running Club;15;;60;0:9;M;;;;;;;
+D;Contrary;Mary;;F;;SOAR;SOAR Running Club;15;;200;31;M;;;;;;;
+D;Contrary;Mary;;F;;SOAR;SOAR Running Club;15;;1600;5:33;M;;;;;;;
+D;Contrary;Mary;;F;;SOAR;SOAR Running Club;15;;JT;45-01;E;;;;;;;
+D;Schmoe;Joe;;M;;SOAR;SOAR Running Club;17;;200;0:31;M;;;;;;;
+D;Schmoe;Joe;;M;;SOAR;SOAR Running Club;17;;HJ;5-03;M;;;;;;;
+D;Nier;Mike;;M;;UNA;Unattached;59;;1MILE;4:59.9;E;;;;;;;
+D;President;Flrc;;M;;UNA;Unattached;56;;1MILE;5:21;E;;;;;;;
+I;Kania;Dave;;M;;ICRC;Ithaca College Running Club;43
+I;Lagat;Bernard;;M;;UNA;Unattached;38
+I;Schmerken;Gurgle;;M;;UNA;Unattached;24
+I;Fay;Charlie;;M;;IHS;Ithaca High School;70
+I;Van Loon;Gerrit;;M;;UNA;Unattached;62
+I;Nolan;Joseph;;M;;UNA;Unattached;58
+I;Talda;Robert;;M;;UNA;Unattached;63
+I;Lockett;Alan;;M;;UNA;Unattached;16
+I;Gregorich;Sandy;;F;;CRC;Cornell Running Club;61
+I;Barclay;Julie;;F;;GROT;Groton Project TC;50
+I;Skilton;Alfie Apples;;M;;UNA;Unattached;10
+I;Skilton;Amalia;;F;;UNA;Unattached;32
+I;Eggleston;Keith;;M;;GROT;Groton Project TC;64
+I;Wagner;Abby;;F;;SOAR;SOAR Running Club;12
+I;Milano;Patrick;;M;;UNA;Unattached;33
+I;Clemons;Damian;;M;;UNA;Unattached;49
+I;Engst;Tonya;;F;;UNA;Unattached;55
+I;Bernstein;Richard;;M;;UNA;Unattached;71
+I;Franck;Carl;;M;;UNA;Unattached;71
+I;Lovenheim;Rebecca;;F;;UNA;Unattached;42
+I;Contrary;Mary;;F;;SOAR;SOAR Running Club;15
+I;Schmoe;Joe;;M;;SOAR;SOAR Running Club;17
+I;Nier;Mike;;M;;UNA;Unattached;59
+I;President;Flrc;;M;;UNA;Unattached;56
