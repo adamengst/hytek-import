@@ -1,5 +1,5 @@
 # Webscorer to HyTek Importer
-Contains a script that can import Webscorer race seed results to a format parsable by HyTek. The script does no error checking and its output should be transparent to the input. Any errors should come from HyTek.
+Contains a script that can import Webscorer race seed results to a format parsable by HyTek. The script does no error checking and its output should be transparent to the input. Any errors should come from HyTek. (GitHub link)[https://github.com/adamengst/hytek-import].
 
 ## Usage
 ```
